@@ -1,5 +1,5 @@
 <!doctype html>
-<!-- generated:dc4375f50e1c3d2a -->
+<!-- generated:febe8d2e688e88f7 -->
 <html lang="he" dir="rtl">
 <head>
 <meta charset="utf-8">
@@ -278,6 +278,18 @@
     }
   }
 
+  /* ---------- שם לטיני וקישור למפה ---------- */
+  .loc {
+    direction: ltr; unicode-bidi: isolate;
+    font-size: .86em; color: var(--muted); font-weight: 400;
+  }
+  a.maplink { color: inherit; text-decoration: none; border-bottom: 1px dotted var(--rule); }
+  a.maplink:hover { border-bottom-color: currentColor; }
+  /* On paper a link is just a name. No underline, and never the URL after it. */
+  @media print {
+    a.maplink { border-bottom: 0; color: inherit; }
+    a.maplink::after { content: none; }
+  }
   /* ---------- סימונים ---------- */
   .w  { color: var(--warn-line); font-weight: 700; }
   .a  { color: var(--alert-line); font-weight: 700; }
@@ -467,17 +479,17 @@
       <thead><tr><th style="width:25%">מה ואיפה</th><th style="width:62%">מה זה בפועל</th><th style="width:13%">כמה זמן</th></tr></thead>
       <tbody>
         <tr>
-          <td>שוק הכרוב · <span class="lat">Zelný trh</span></td>
+          <td><a class="maplink" href="https://www.google.com/maps/search/?api=1&amp;query=49.19231%2C16.60895" target="_blank" rel="noopener noreferrer">שוק הכרוב <span class="loc">· Zelný trh</span></a></td>
           <td>שוק ירקות שפועל מאז המאה ה-13 בכיכר שבמרכז ברנו, מעל מרתפי הלבירינת ולצד ארמון דיטריכשטיין. הכניסה חופשית, והמעבר בין הדוכנים פתוח.</td>
           <td class="dur">שעות <span class="w">▲</span> · כשעה</td>
         </tr>
         <tr>
-          <td>הלבירינת מתחת לשוק הכרוב · <span class="lat">Labyrint pod Zelným trhem</span></td>
+          <td><a class="maplink" href="https://www.google.com/maps/search/?api=1&amp;query=Labyrint%20pod%20Zeln%C3%BDm%20trhem%2C%20Brno" target="_blank" rel="noopener noreferrer">הלבירינת מתחת לשוק הכרוב <span class="loc">· Labyrint pod Zelným trhem</span></a></td>
           <td>מרתפים מימי הביניים מתחת לכיכר השוק, מסדרונות ומחסנים שנחפרו לאורך מאות שנים. הכניסה האחרונה <span class="lat">17:30</span>, וההזמנה מומלצת מראש כי הקבוצות קטנות.</td>
           <td class="dur">ג'-א' <span class="lat">9:00-18:00</span>, כניסה אחרונה <span class="lat">17:30</span> · שעה</td>
         </tr>
         <tr>
-          <td>גופאל · <span class="lat">Gopál</span></td>
+          <td><a class="maplink" href="https://www.google.com/maps/search/?api=1&amp;query=Gop%C3%A1l%2C%20Brno" target="_blank" rel="noopener noreferrer">גופאל <span class="loc">· Gopál</span></a></td>
           <td>הודי צמחוני צפונית למרכז, תאלי ומסאלה דוסה. סגור בשבת ובראשון, ולכן הוא נופל רק על יום השישי הראשון בברנו.</td>
           <td class="dur">ב'-ו' <span class="lat">11:00-18:00</span> · שעה</td>
         </tr>
@@ -489,9 +501,9 @@
     <table class="opt t-near">
       <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
       <tbody>
-        <tr><td>ארמון דיטריכשטיין</td><td>המוזיאון המורבי הארצי בקצה השוק. עולם המינרלים וחיים שנכחדו במורביה - עובד גם על בן <span class="lat">6.5</span>.</td><td class="dur">כ-1 דק' הליכה משוק הכרוב</td></tr>
-        <tr><td>מצודת שפילברק</td><td>מצודה על הגבעה מעל העיר: קזמטות, מגדל תצפית ומתחם פתוח מהבוקר עד הלילה. עלייה, אבל שווה.</td><td class="dur">כ-15 דק' הליכה משוק הכרוב, בעלייה</td></tr>
-        <tr><td>מנדליאנום</td><td>מוזיאון גנטיקה קטן, שתי דקות מהשוק. מחזיק את בן ה-14; לצעיר יידרש קצב מהיר.</td><td class="dur">כ-2 דק' הליכה משוק הכרוב</td></tr>
+        <tr><td><a class="maplink" href="https://www.google.com/maps/search/?api=1&amp;query=49.191842%2C16.608478" target="_blank" rel="noopener noreferrer">ארמון דיטריכשטיין <span class="loc">· Dietrichsteinský palác</span></a></td><td>המוזיאון המורבי הארצי בקצה השוק. עולם המינרלים וחיים שנכחדו במורביה - עובד גם על בן <span class="lat">6.5</span>.</td><td class="dur">כ-1 דק' הליכה משוק הכרוב</td></tr>
+        <tr><td><a class="maplink" href="https://www.google.com/maps/search/?api=1&amp;query=49.195311%2C16.598128" target="_blank" rel="noopener noreferrer">מצודת שפילברק <span class="loc">· Hrad Špilberk</span></a></td><td>מצודה על הגבעה מעל העיר: קזמטות, מגדל תצפית ומתחם פתוח מהבוקר עד הלילה. עלייה, אבל שווה.</td><td class="dur">כ-15 דק' הליכה משוק הכרוב, בעלייה</td></tr>
+        <tr><td><a class="maplink" href="https://www.google.com/maps/search/?api=1&amp;query=49.1914%2C16.608276" target="_blank" rel="noopener noreferrer">מנדליאנום <span class="loc">· Mendelianum</span></a></td><td>מוזיאון גנטיקה קטן, שתי דקות מהשוק. מחזיק את בן ה-14; לצעיר יידרש קצב מהיר.</td><td class="dur">כ-2 דק' הליכה משוק הכרוב</td></tr>
       </tbody>
     </table>
     </div>
@@ -500,9 +512,9 @@
     <table class="opt t-eat">
       <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
       <tbody>
-        <tr><td>נמסקאר</td><td>הודי צמחוני וטבעוני שלוש דקות מהשוק - קארי, דאל ופאלאק פאניר. פתוח כל יום עד <span class="lat">22:00</span>.</td><td class="dur">כ-3 דק' הליכה משוק הכרוב</td></tr>
-        <tr><td>סקוג אורבן האב</td><td>בית קפה וקלייה עם תפריט צמחוני ועוגה טבעונית. בראנץ' מהבוקר, ופתוח עד מאוחר בלילה.</td><td class="dur">כ-4 דק' הליכה משוק הכרוב</td></tr>
-        <tr><td>לוקאל או צאיפלה</td><td>בית אוכל צ'כי עם שניצל עוף, שניצל גבינה וביצים בתפוחי אדמה. פתוח עד חצות.</td><td class="dur">כ-7 דק' הליכה משוק הכרוב</td></tr>
+        <tr><td><a class="maplink" href="https://www.google.com/maps/search/?api=1&amp;query=49.192371%2C16.60691" target="_blank" rel="noopener noreferrer">נמסקאר <span class="loc">· Namaskar</span></a></td><td>הודי צמחוני וטבעוני שלוש דקות מהשוק - קארי, דאל ופאלאק פאניר. פתוח כל יום עד <span class="lat">22:00</span>.</td><td class="dur">כ-3 דק' הליכה משוק הכרוב</td></tr>
+        <tr><td><a class="maplink" href="https://www.google.com/maps/search/?api=1&amp;query=49.193991%2C16.607186" target="_blank" rel="noopener noreferrer">סקוג אורבן האב <span class="loc">· SKØG Urban Hub</span></a></td><td>בית קפה וקלייה עם תפריט צמחוני ועוגה טבעונית. בראנץ' מהבוקר, ופתוח עד מאוחר בלילה.</td><td class="dur">כ-4 דק' הליכה משוק הכרוב</td></tr>
+        <tr><td><a class="maplink" href="https://www.google.com/maps/search/?api=1&amp;query=49.195873%2C16.609449" target="_blank" rel="noopener noreferrer">לוקאל או צאיפלה <span class="loc">· Lokál U Caipla</span></a></td><td>בית אוכל צ'כי עם שניצל עוף, שניצל גבינה וביצים בתפוחי אדמה. פתוח עד חצות.</td><td class="dur">כ-7 דק' הליכה משוק הכרוב</td></tr>
       </tbody>
     </table>
     </div>
@@ -524,17 +536,17 @@
       <thead><tr><th style="width:25%">מה ואיפה</th><th style="width:62%">מה זה בפועל</th><th style="width:13%">כמה זמן</th></tr></thead>
       <tbody>
         <tr>
-          <td>וילה טוגנדהאט · <span class="lat">Vila Tugendhat</span></td>
+          <td><a class="maplink" href="https://www.google.com/maps/search/?api=1&amp;query=49.207169%2C16.616062" target="_blank" rel="noopener noreferrer">וילה טוגנדהאט <span class="loc">· Vila Tugendhat</span></a></td>
           <td>בית מודרניסטי של מיס ואן דר רואה, אתר אונסק&quot;ו. הכניסה פנימה רק בסיור מודרך של 60 דקות ועם כרטיס שנרכש מראש באינטרנט, עד 16 איש בקבוצה, והכרטיס אינו ניתן לביטול.</td>
           <td class="dur">ג'-א' <span class="lat">10:00-18:00</span>, כניסה אחרונה <span class="lat">17:30</span> · שעה וחצי</td>
         </tr>
         <tr>
-          <td>וילה לב-בר · <span class="lat">Vila Löw-Beer</span></td>
+          <td><a class="maplink" href="https://www.google.com/maps/search/?api=1&amp;query=49.206057%2C16.613598" target="_blank" rel="noopener noreferrer">וילה לב-בר <span class="loc">· Vila Löw-Beer</span></a></td>
           <td>וילה שכנה לטוגנדהאט, עם תערוכת קבע על יהודי מורביה והדרכה קצרה של רבע שעה בכל שעה עגולה. הגן והגלריה חינם, והמעבר לגן טוגנדהאט פתוח בלי תשלום.</td>
           <td class="dur">ג'-א' <span class="lat">10:00-18:00</span>, הגן עד <span class="lat">20:00</span> · שעה</td>
         </tr>
         <tr>
-          <td>מוזיאון מנדל · <span class="lat">Mendelovo muzeum</span></td>
+          <td><a class="maplink" href="https://www.google.com/maps/search/?api=1&amp;query=49.1913%2C16.593795" target="_blank" rel="noopener noreferrer">מוזיאון מנדל <span class="loc">· Mendelovo muzeum</span></a></td>
           <td>המוזיאון של גרגור מנדל במנזר של ברנו העתיקה, במתחם שבו עבד. תצוגה קטנה וממוקדת, והכניסה חינם עד גיל 6.</td>
           <td class="dur">ג'-א' <span class="lat">9:00-18:00</span> · שעה</td>
         </tr>
@@ -546,9 +558,9 @@
     <table class="opt t-near">
       <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
       <tbody>
-        <tr><td>פארק לוז'אנקי</td><td>אחד הפארקים העירוניים העתיקים במרכז אירופה. כניסה חופשית, ופביליון מסעדה במרכזו.</td><td class="dur">כ-8 דק' הליכה מוילה לב-בר</td></tr>
-        <tr><td>מצודת שפילברק</td><td>המצודה שמעל העיר - קזמטות, מגדל תצפית ומדשאות. המתחם עצמו פתוח מ-<span class="lat">6:00</span> עד <span class="lat">22:00</span>.</td><td class="dur">כ-9 דק' הליכה ממוזיאון מנדל</td></tr>
-        <tr><td>מנדליאנום</td><td>המשך ישיר למוזיאון מנדל: תצוגת גנטיקה נפרדת. שבת <span class="lat">10:00-17:00</span>, ואפשר גם עם מדריך.</td><td class="dur">כ-18 דק' הליכה ממוזיאון מנדל</td></tr>
+        <tr><td><a class="maplink" href="https://www.google.com/maps/search/?api=1&amp;query=49.208999%2C16.608815" target="_blank" rel="noopener noreferrer">פארק לוז'אנקי <span class="loc">· Park Lužánky</span></a></td><td>אחד הפארקים העירוניים העתיקים במרכז אירופה. כניסה חופשית, ופביליון מסעדה במרכזו.</td><td class="dur">כ-8 דק' הליכה מוילה לב-בר</td></tr>
+        <tr><td><a class="maplink" href="https://www.google.com/maps/search/?api=1&amp;query=49.195311%2C16.598128" target="_blank" rel="noopener noreferrer">מצודת שפילברק <span class="loc">· Hrad Špilberk</span></a></td><td>המצודה שמעל העיר - קזמטות, מגדל תצפית ומדשאות. המתחם עצמו פתוח מ-<span class="lat">6:00</span> עד <span class="lat">22:00</span>.</td><td class="dur">כ-9 דק' הליכה ממוזיאון מנדל</td></tr>
+        <tr><td><a class="maplink" href="https://www.google.com/maps/search/?api=1&amp;query=49.1914%2C16.608276" target="_blank" rel="noopener noreferrer">מנדליאנום <span class="loc">· Mendelianum</span></a></td><td>המשך ישיר למוזיאון מנדל: תצוגת גנטיקה נפרדת. שבת <span class="lat">10:00-17:00</span>, ואפשר גם עם מדריך.</td><td class="dur">כ-18 דק' הליכה ממוזיאון מנדל</td></tr>
       </tbody>
     </table>
     </div>
@@ -557,9 +569,9 @@
     <table class="opt t-eat">
       <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
       <tbody>
-        <tr><td>נמסקאר</td><td>הודי צמחוני וטבעוני - קארי, דאל ופאלאק פאניר. פתוח כל יום <span class="lat">11:00-22:00</span>, גם בשבת.</td><td class="dur">כ-17 דק' הליכה ממוזיאון מנדל</td></tr>
-        <tr><td>סקוג אורבן האב</td><td>קפה, קלייה ובר עם תפריט צמחוני ועוגה טבעונית. בשבת פתוח מ-<span class="lat">10:00</span> ועד השעות הקטנות.</td><td class="dur">כ-18 דק' הליכה ממוזיאון מנדל</td></tr>
-        <tr><td>פיבניצה פגאס</td><td>מיקרו-מבשלה במרכז ההיסטורי, מטבח מורבי עם שניצל עוף ושניצל גבינה. שבת <span class="lat">11:00-24:00</span>.</td><td class="dur">כ-19 דק' הליכה ממוזיאון מנדל</td></tr>
+        <tr><td><a class="maplink" href="https://www.google.com/maps/search/?api=1&amp;query=49.192371%2C16.60691" target="_blank" rel="noopener noreferrer">נמסקאר <span class="loc">· Namaskar</span></a></td><td>הודי צמחוני וטבעוני - קארי, דאל ופאלאק פאניר. פתוח כל יום <span class="lat">11:00-22:00</span>, גם בשבת.</td><td class="dur">כ-17 דק' הליכה ממוזיאון מנדל</td></tr>
+        <tr><td><a class="maplink" href="https://www.google.com/maps/search/?api=1&amp;query=49.193991%2C16.607186" target="_blank" rel="noopener noreferrer">סקוג אורבן האב <span class="loc">· SKØG Urban Hub</span></a></td><td>קפה, קלייה ובר עם תפריט צמחוני ועוגה טבעונית. בשבת פתוח מ-<span class="lat">10:00</span> ועד השעות הקטנות.</td><td class="dur">כ-18 דק' הליכה ממוזיאון מנדל</td></tr>
+        <tr><td><a class="maplink" href="https://www.google.com/maps/search/?api=1&amp;query=49.196195%2C16.607111" target="_blank" rel="noopener noreferrer">פיבניצה פגאס <span class="loc">· Pivnice Pegas</span></a></td><td>מיקרו-מבשלה במרכז ההיסטורי, מטבח מורבי עם שניצל עוף ושניצל גבינה. שבת <span class="lat">11:00-24:00</span>.</td><td class="dur">כ-19 דק' הליכה ממוזיאון מנדל</td></tr>
       </tbody>
     </table>
     </div>
@@ -573,17 +585,17 @@
       <thead><tr><th style="width:25%">מה ואיפה</th><th style="width:62%">מה זה בפועל</th><th style="width:13%">כמה זמן</th></tr></thead>
       <tbody>
         <tr>
-          <td>פסטיבל רוסט · <span class="lat">Roast</span>! <span class="lat">Brněnský kávový festival</span></td>
+          <td><a class="maplink" href="https://www.google.com/maps/search/?api=1&amp;query=Roast!%20Brn%C4%9Bnsk%C3%BD%20k%C3%A1vov%C3%BD%20festival%2C%20Brno" target="_blank" rel="noopener noreferrer">פסטיבל רוסט <span class="loc">· Roast! Brněnský kávový festival</span></a></td>
           <td>פסטיבל הקפה הגדול בברנו, במבנה כלא לשעבר: טעימות ללא הגבלה, הרצאות, סדנאות ושולחנות <span class="lat">cupping</span>. הכרטיס 500 קרונות, ומדיניות הכניסה לילדים <span class="w">▲</span>.</td>
           <td class="dur"><span class="lat">12-13/09</span> בלבד, שעות <span class="w">▲</span> · שעתיים</td>
         </tr>
         <tr>
-          <td>מרכז המדע וידה · <span class="lat">VIDA</span>! <span class="lat">science centrum</span></td>
+          <td><a class="maplink" href="https://www.google.com/maps/search/?api=1&amp;query=49.186337%2C16.584" target="_blank" rel="noopener noreferrer">מרכז המדע וידה <span class="loc">· VIDA! science centrum</span></a></td>
           <td>מרכז מדע התנסותי עם מוצגים שנוגעים בהם, מהבודדים שמחזיקים גם את מי שבן 14 וגם את מי שבגיל <span class="lat">6.5</span>. בימי שני נסגר כבר ב-<span class="lat">14:00</span> לניקוי ותיקון מוצגים.</td>
           <td class="dur">ג'-ו' <span class="lat">9:00-18:00</span>, ש'-א' <span class="lat">10:00-18:00</span> · שלוש שעות</td>
         </tr>
         <tr>
-          <td>טרז'י אוצאסצי - קונדיטוריה · <span class="lat">Tři ocásci Cukrárna</span></td>
+          <td><a class="maplink" href="https://www.google.com/maps/search/?api=1&amp;query=T%C5%99i%20oc%C3%A1sci%20Cukr%C3%A1rna%2C%20Brno" target="_blank" rel="noopener noreferrer">טרז'י אוצאסצי - קונדיטוריה <span class="loc">· Tři ocásci Cukrárna</span></a></td>
           <td>מאפייה וקונדיטוריה טבעונית של קואופרטיב מקומי, הליכה קצרה ממרכז העיר. פותחת ב-<span class="lat">10:00</span> גם בסופי שבוע, ונוחה לארוחת בוקר לפני היציאה.</td>
           <td class="dur">ב'-ו' <span class="lat">8:00-21:00</span>, ש'-א' <span class="lat">10:00-20:00</span> · שעה</td>
         </tr>
@@ -595,9 +607,9 @@
     <table class="opt t-near">
       <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
       <tbody>
-        <tr><td>פביליון אנתרופוס</td><td>ממותה בגודל טבעי ופרהיסטוריה, עם תערוכת זדנייק בוריאן. ההתאמה הטובה בברנו לשני הגילים.</td><td class="dur">כ-24 דק' הליכה ממרכז המדע וידה</td></tr>
-        <tr><td>מצפה הכוכבים והפלנטריום</td><td>הקרנות כיפה תלת-ממד על הגבעה מעל המרכז. אולם הכניסה והאקספלורטוריום בכניסה חופשית.</td><td class="dur">כ-2 ק&quot;מ ממרכז המדע וידה</td></tr>
-        <tr><td>וילה יורקוביץ'</td><td>ביתו של האדריכל דושאן יורקוביץ', עם כרטיס משפחתי. ביקור קצר - סוגר כבר ב-<span class="lat">18:00</span>.</td><td class="dur">כ-<span class="lat">2.3</span> ק&quot;מ ממרכז המדע וידה</td></tr>
+        <tr><td><a class="maplink" href="https://www.google.com/maps/search/?api=1&amp;query=49.191988%2C16.567227" target="_blank" rel="noopener noreferrer">פביליון אנתרופוס <span class="loc">· Pavilon Anthropos</span></a></td><td>ממותה בגודל טבעי ופרהיסטוריה, עם תערוכת זדנייק בוריאן. ההתאמה הטובה בברנו לשני הגילים.</td><td class="dur">כ-24 דק' הליכה ממרכז המדע וידה</td></tr>
+        <tr><td><a class="maplink" href="https://www.google.com/maps/search/?api=1&amp;query=49.204766%2C16.583642" target="_blank" rel="noopener noreferrer">מצפה הכוכבים והפלנטריום <span class="loc">· Hvězdárna a planetárium Brno</span></a></td><td>הקרנות כיפה תלת-ממד על הגבעה מעל המרכז. אולם הכניסה והאקספלורטוריום בכניסה חופשית.</td><td class="dur">כ-2 ק&quot;מ ממרכז המדע וידה</td></tr>
+        <tr><td><a class="maplink" href="https://www.google.com/maps/search/?api=1&amp;query=49.206608%2C16.576098" target="_blank" rel="noopener noreferrer">וילה יורקוביץ' <span class="loc">· Jurkovičova vila</span></a></td><td>ביתו של האדריכל דושאן יורקוביץ', עם כרטיס משפחתי. ביקור קצר - סוגר כבר ב-<span class="lat">18:00</span>.</td><td class="dur">כ-<span class="lat">2.3</span> ק&quot;מ ממרכז המדע וידה</td></tr>
       </tbody>
     </table>
     </div>
@@ -606,9 +618,9 @@
     <table class="opt t-eat">
       <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
       <tbody>
-        <tr><td>פורקיס ואנקובקה</td><td>טבעוני 100% במרכז הקניות שצמוד לתחנה המרכזית. פתוח בראשון <span class="lat">10:00-20:00</span>, נוח לפני רכבת.</td><td class="dur">במרכז הקניות ואנקובקה, ליד התחנה המרכזית</td></tr>
-        <tr><td>לוקאל או צאיפלה</td><td>שניצל עוף, שניצל גבינה וביצים בתפוחי אדמה. בראשון פתוח עד <span class="lat">22:30</span> - הכי מאוחר בקבוצה.</td><td class="dur">כ-<span class="lat">2.1</span> ק&quot;מ ממרכז המדע וידה</td></tr>
-        <tr><td>פיבניצה פגאס</td><td>מיקרו-מבשלה עם מטבח מורבי, שניצל עוף ושניצל גבינה. בראשון נסגרת כבר ב-<span class="lat">19:00</span>.</td><td class="dur">כ-2 ק&quot;מ ממרכז המדע וידה</td></tr>
+        <tr><td><a class="maplink" href="https://www.google.com/maps/search/?api=1&amp;query=Forky's%20OC%20Va%C5%88kovka%2C%20Brno" target="_blank" rel="noopener noreferrer">פורקיס ואנקובקה <span class="loc">· Forky's OC Vaňkovka</span></a></td><td>טבעוני 100% במרכז הקניות שצמוד לתחנה המרכזית. פתוח בראשון <span class="lat">10:00-20:00</span>, נוח לפני רכבת.</td><td class="dur">במרכז הקניות ואנקובקה, ליד התחנה המרכזית</td></tr>
+        <tr><td><a class="maplink" href="https://www.google.com/maps/search/?api=1&amp;query=49.195873%2C16.609449" target="_blank" rel="noopener noreferrer">לוקאל או צאיפלה <span class="loc">· Lokál U Caipla</span></a></td><td>שניצל עוף, שניצל גבינה וביצים בתפוחי אדמה. בראשון פתוח עד <span class="lat">22:30</span> - הכי מאוחר בקבוצה.</td><td class="dur">כ-<span class="lat">2.1</span> ק&quot;מ ממרכז המדע וידה</td></tr>
+        <tr><td><a class="maplink" href="https://www.google.com/maps/search/?api=1&amp;query=49.196195%2C16.607111" target="_blank" rel="noopener noreferrer">פיבניצה פגאס <span class="loc">· Pivnice Pegas</span></a></td><td>מיקרו-מבשלה עם מטבח מורבי, שניצל עוף ושניצל גבינה. בראשון נסגרת כבר ב-<span class="lat">19:00</span>.</td><td class="dur">כ-2 ק&quot;מ ממרכז המדע וידה</td></tr>
       </tbody>
     </table>
     </div>
