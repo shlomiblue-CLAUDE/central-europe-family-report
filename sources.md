@@ -1,0 +1,324 @@
+# מקורות — ברנו · פראג · וינה · בודפשט, 11/09–02/10/2026
+
+320 מקורות, כפי שהם רשומים במסד. הדוח עצמו נושא שורה אחת שמפנה לכאן.
+
+- [https://www.adrop.cz/en/formula-1-simulator](https://www.adrop.cz/en/formula-1-simulator) — adrop.cz
+- [https://www.adrop.cz/en/car-race-simulator-prague](https://www.adrop.cz/en/car-race-simulator-prague) — adrop.cz
+- [https://www.adrop.cz/en/sports-cars/region-stredocesky](https://www.adrop.cz/en/sports-cars/region-stredocesky) — adrop.cz
+- [https://www.adrop.cz/en/lamborghini-gallardo/city-praha](https://www.adrop.cz/en/lamborghini-gallardo/city-praha) — adrop.cz
+- [https://www.adrop.cz/en/sosnova-autodrome-racing](https://www.adrop.cz/en/sosnova-autodrome-racing) — adrop.cz
+- [https://www.adrop.cz/en/mitsubishi-ride-with-czech-rally-champion](https://www.adrop.cz/en/mitsubishi-ride-with-czech-rally-champion) — adrop.cz
+- [https://www.adrop.cz/en/quad-atv-track-ride-suitable-for-children/city-prague](https://www.adrop.cz/en/quad-atv-track-ride-suitable-for-children/city-prague) — adrop.cz
+- [https://www.adrop.cz/en/aerobatic-flights](https://www.adrop.cz/en/aerobatic-flights) — adrop.cz
+- [alle.travel](https://alle.travel/en/prague/pages/how-much-does-it-cost-to-eat-in-prague) — alle.travel
+- [https://anoprague.co.il/attractions/](https://anoprague.co.il/attractions/) — anoprague.co.il · נמסר ידנית
+- [aquapalace.cz (רשמי)](https://www.aquapalace.cz/en/) — aquapalace.cz
+- [aquapalacehotel.cz — Water World](https://www.aquapalacehotel.cz/en/water-world) — aquapalacehotel.cz
+- [https://archiv.tugendhat.eu/cz/navsteva-vily/navstevni-rad.html](https://archiv.tugendhat.eu/cz/navsteva-vily/navstevni-rad.html) — archiv.tugendhat.eu
+- [https://www.autodrom-most.eu/en/](https://www.autodrom-most.eu/en/) — autodrom-most.eu
+- [https://www.autodrom.cz/](https://www.autodrom.cz/) — autodrom.cz
+- [https://www.autodrom.cz/poukazkurzsportvnijizdy](https://www.autodrom.cz/poukazkurzsportvnijizdy) — autodrom.cz
+- [bejtsimcha.cz](https://www.bejtsimcha.cz/en/about-us/) — bejtsimcha.cz
+- [Best Prague Guide — Prague with Teenagers](https://bestpragueguide.com/en/blog/prague-with-teenagers) — bestpragueguide.com
+- [bestpragueguide.com](https://bestpragueguide.com/en/blog/prague-kosher-restaurants) — bestpragueguide.com
+- [bestpragueguide.com](https://bestpragueguide.com/en/blog/prague-in-august) — bestpragueguide.com
+- [bkv.hu](https://www.bkv.hu/hu/content/nyitvatartas_viteldijak_megkozelithetoseg) — bkv.hu
+- [https://www.blansko.cz/pristup-a-doprava-do-a-v-moravskem-krasu**](https://www.blansko.cz/pristup-a-doprava-do-a-v-moravskem-krasu**) — blansko.cz
+- [https://booking.zerolatencyvr.com/book-now/prague/](https://booking.zerolatencyvr.com/book-now/prague/) — booking.zerolatencyvr.com
+- [https://botanischergarten.univie.ac.at/](https://botanischergarten.univie.ac.at/) — botanischergarten.univie.ac.at
+- [https://www.brnoid.cz/cs/vstupenky-tugendhat](https://www.brnoid.cz/cs/vstupenky-tugendhat) — brnoid.cz
+- [budapest-trip.com](https://www.budapest-trip.com/guides/bkk-travel-passes/) — budapest-trip.com
+- [budapestcard.org](https://www.budapestcard.org/prices/) — budapestcard.org
+- [budappest.hu](https://budappest.hu/budapest-programok/oktoberfest-budapest-2026-sorfesztival-tobb-budapesti-helyszinen/) — budappest.hu
+- [https://www.bundesgaerten.at/schlosspark-schoenbrunn/oeffnungszeiten.html](https://www.bundesgaerten.at/schlosspark-schoenbrunn/oeffnungszeiten.html) — bundesgaerten.at
+- [https://www.bungee.cz/en/jump/jump](https://www.bungee.cz/en/jump/jump) — bungee.cz
+- [businessinfo.cz](https://www.businessinfo.cz/navody/prodejni-doba-v-maloobchode-a-velkoobchode/) — businessinfo.cz
+- [cafesavoy.ambi.cz](https://www.cafesavoy.ambi.cz/en) — cafesavoy.ambi.cz
+- [https://www.cafesperl.at/](https://www.cafesperl.at/) — cafesperl.at
+- [centralgrandcafe.hu](https://centralgrandcafe.hu/en/contact/) — centralgrandcafe.hu
+- [Radio Prague International](https://cesky.radio.cz/nova-lanovka-na-petrin-bude-v-provozu-od-leta-2026-8862619) — cesky.radio.cz
+- [chabad.org](https://www.chabad.org/library/article_cdo/aid/4126/jewish/Sukkot-2026.htm) — chabad.org
+- [chabadprague.cz](https://chabadprague.cz/en/) — chabadprague.cz
+- [chabadprague.cz](https://www.chabadprague.cz/en/) — chabadprague.cz
+- [chabadprague.cz — Ahavat Yosef Synagogue](https://chabadprague.cz/en/ahavat-yosef-synagogue/) — chabadprague.cz
+- [chabadprague.cz — Kosher Shop](https://chabadprague.cz/en/kosher-shop/) — chabadprague.cz
+- [chabadprague.cz — Shabbat Meals](https://chabadprague.cz/en/shabbat-meals/) — chabadprague.cz
+- [chabadprague.cz — Shelanu Pizzeria](https://chabadprague.cz/en/food/the-shelanu-pizzerie/) — chabadprague.cz
+- [chabadprague.cz — The Chabad Grill](https://chabadprague.cz/en/food/the-chabad-grill-2/) — chabadprague.cz
+- [chabadprague.cz — U MILO](https://chabadprague.cz/en/food/u-milo-kosher-italian-dairy/) — chabadprague.cz
+- [https://www.cmkarting.cz/en](https://www.cmkarting.cz/en) — cmkarting.cz
+- [https://www.cmkarting.cz/cz/cenik](https://www.cmkarting.cz/cz/cenik) — cmkarting.cz
+- [ČOI (Česká obchodní inspekce / Czech Trade Inspection Authority)](https://coi.gov.cz/pro-podnikatele/zakon-o-prodejni-dobe-v-maloobchode-a-velkoobchode/) — coi.gov.cz
+- [countrylife.cz](https://www.countrylife.cz/) — countrylife.cz
+- [https://ct24.ceskatelevize.cz/clanek/regiony/po-vzoru-londyna-a-vidne-praha-5-chce-u-vltavy-postavit-obri-ruske-kolo-112866](https://ct24.ceskatelevize.cz/clanek/regiony/po-vzoru-londyna-a-vidne-praha-5-chce-u-vltavy-postavit-obri-ruske-kolo-112866) — ct24.ceskatelevize.cz
+- [https://www.czech-jet.com/](https://www.czech-jet.com/) — czech-jet.com
+- [denarchitektury.cz](https://www.denarchitektury.cz/) — denarchitektury.cz
+- [divinis.cz](https://www.divinis.cz/en/) — divinis.cz
+- [dosadosa.cz](https://www.dosadosa.cz/en) — dosadosa.cz
+- [dox.cz](https://www.dox.cz/en) — dox.cz
+- [DPP fare pricelist](https://www.dpp.cz/en/fares/fare-pricelist) — dpp.cz
+- [DPP, funicular to Petřín](https://www.dpp.cz/en/entertainment-and-experience/funicular-to-petrin) — dpp.cz
+- [dpp.cz — Doprava na letiště / denní provoz](https://www.dpp.cz/cestovani/doprava-na-letiste/denni-provoz) — dpp.cz
+- [dpp.cz — Lanová dráha na Petřín](https://www.dpp.cz/zabava-a-zazitky/lanova-draha-na-petrin) — dpp.cz
+- [dpp.cz — על הטרוליבוס הארוך בצ'כיה](https://www.dpp.cz/spolecnost/aktuality/detail/66_2519-na-letiste-nejdelsim-trolejbusem-v-cr) — dpp.cz
+- [dunaipoly.hu](https://www.dunaipoly.hu/hu/helyek/bemutatohelyek/pal-volgyi-barlang) — dunaipoly.hu
+- [e15.cz, "Otevírací doba 28. září 2026"](https://www.e15.cz/obchody-28-zari-kdy-je-zavreno-otevreno) — e15.cz
+- [easykoshertravel.com](https://easykoshertravel.com/kosher-restaurants-in-prague/) — easykoshertravel.com
+- [eatingeurope.com](https://www.eatingeurope.com/blog/italian-restaurants-in-prague/) — eatingeurope.com
+- [Wikipedia](https://en.wikipedia.org/wiki/Budapest_Children's_Railway) — en.wikipedia.org
+- [EVD 50-minute cruise](https://www.evd.cz/en/one-hour-cruise-through-prague) — evd.cz
+- [evd.cz](https://www.evd.cz/en/) — evd.cz
+- [expats.cz](https://www.expats.cz/directory/listing/dinitz) — expats.cz
+- [https://www.flyfighterjet.com/fly-l-39-prague-czech-republic-praha](https://www.flyfighterjet.com/fly-l-39-prague-czech-republic-praha) — flyfighterjet.com
+- [https://www.flyjetify.com/fly-a-fighter-jet/mig-15-czech-republic](https://www.flyjetify.com/fly-a-fighter-jet/mig-15-czech-republic) — flyjetify.com
+- [https://www.forkys.cz/en/branches/**](https://www.forkys.cz/en/branches/**) — forkys.cz
+- [fourseasons.com/prague/dining](https://www.fourseasons.com/prague/dining/) — fourseasons.com
+- [funzine 28/08/2026](https://funzine.hu/2026/08/29/programok/80-kihagyhatatlan-program-es-oszindito-fesztival-budapesten-szeptemberre/) — funzine.hu
+- [futuregate.cz](https://futuregate.cz/en/) — futuregate.cz
+- [fzo.cz — Bejt Simcha](https://www.fzo.cz/en/affiliated-organizations/bejt-simcha/) — fzo.cz
+- [getyourguide.com](https://www.getyourguide.com/prague-l10/prague-petrin-tower-and-mirror-maze-entry-ticket-t405222/) — getyourguide.com
+- [https://www.gotobrno.cz/kalendar-akci/](https://www.gotobrno.cz/kalendar-akci/) — gotobrno.cz
+- [https://www.gotobrno.cz/en/places/vida-science-centre/](https://www.gotobrno.cz/en/places/vida-science-centre/) — gotobrno.cz
+- [https://www.gotobrno.cz/en/events-in-brno/](https://www.gotobrno.cz/en/events-in-brno/) — gotobrno.cz
+- [https://www.gotobrno.cz/en/place/luzanky-park/**](https://www.gotobrno.cz/en/place/luzanky-park/**) — gotobrno.cz
+- [grosseto.cz](https://www.grosseto.cz/en/) — grosseto.cz
+- [guide.michelin.com/en/prague/prague/restaurant/aromi](https://guide.michelin.com/en/prague/prague/restaurant/aromi) — guide.michelin.com
+- [https://guide.wienmuseum.at/en/seite/oeffnungszeiten](https://guide.wienmuseum.at/en/seite/oeffnungszeiten) — guide.wienmuseum.at
+- [gyermekvasut.hu](https://gyermekvasut.hu/en/timetables/b-g/) — gyermekvasut.hu
+- [hadassahmagazine.org](https://www.hadassahmagazine.org/2006/04/11/jewish-traveler-prague/) — hadassahmagazine.org
+- [happycow.net](https://www.happycow.net/reviews/vegans-prague-71531) — happycow.net
+- [Hebcal API — Prague, 24/9–5/10/2026](https://www.hebcal.com/hebcal?v=1&cfg=json&maj=on&c=on&geo=geoname&geonameid=3067696&M=on&start=2026-09-24&end=2026-10-05) — hebcal.com
+- [Hebcal API — Prague, 26/09–06/10/2026](https://www.hebcal.com/hebcal?v=1&cfg=json&maj=on&c=on&geo=geoname&geonameid=3067696&M=on&start=2026-09-26&end=2026-10-06) — hebcal.com
+- [hebcal.com](https://www.hebcal.com/holidays/sukkot-2026) — hebcal.com
+- [helloprague.net](https://www.helloprague.net/best-restaurants-prague-where-locals-eat/) — helloprague.net
+- [https://holesovice.jungle.cz/cenik-a-oteviraci-doba-s674](https://holesovice.jungle.cz/cenik-a-oteviraci-doba-s674) — holesovice.jungle.cz
+- [hotelkingdavid.cz](https://www.hotelkingdavid.cz/) — hotelkingdavid.cz
+- [Tours](https://www.hrad-karlstejn.cz/en/plan-your-visit/tours) — hrad-karlstejn.cz
+- [hrad-karlstejn.cz — Opening hours](https://www.hrad-karlstejn.cz/en/plan-your-visit/opening-hours) — hrad-karlstejn.cz
+- [Prague Castle how-to-get-here, via search index](https://www.hrad.cz/en/prague-castle-for-visitors/how-to-get-to-castle) — hrad.cz
+- [hungarikumbisztro.hu](https://hungarikumbisztro.hu/) — hungarikumbisztro.hu
+- [https://hurricanefactory.com/prague/en/buy-a-voucher-or-make-a-reservation/](https://hurricanefactory.com/prague/en/buy-a-voucher-or-make-a-reservation/) — hurricanefactory.com
+- [https://hurricanefactory.com/prague/en/fun-flights/](https://hurricanefactory.com/prague/en/fun-flights/) — hurricanefactory.com
+- [iamprague.eu](https://iamprague.eu/en/home/) — iamprague.eu
+- [https://www.idsjmk.cz/a/turisti-specialni-linky.html**](https://www.idsjmk.cz/a/turisti-specialni-linky.html**) — idsjmk.cz
+- [https://www.idsjmk.cz/a/turisti-jizdenky.html**](https://www.idsjmk.cz/a/turisti-jizdenky.html**) — idsjmk.cz
+- [https://www.idsjmk.cz/lockouts/all/current**](https://www.idsjmk.cz/lockouts/all/current**) — idsjmk.cz
+- [https://www.imm.hu/](https://www.imm.hu/) — imm.hu
+- [imm.hu](https://www.imm.hu/hu/contents/285,R%C3%A1th+Gy%C3%B6rgy-villa) — imm.hu
+- [https://www.incredible-adventures.com/l-39-prague.html](https://www.incredible-adventures.com/l-39-prague.html) — incredible-adventures.com
+- [infostart 14/06/2026](https://infostart.hu/kultura/2026/06/14/beszippantottuk-a-kornyezo-orszagok-konyveseit-is-oktoberben-ismet-lesz-budapesti-nemzetkozi-konyvfesztival) — infostart.hu
+- [https://jarov.jumppark.cz/cs/cenik/](https://jarov.jumppark.cz/cs/cenik/) — jarov.jumppark.cz
+- [jewishcenterprague.org](https://www.jewishcenterprague.org/t-en) — jewishcenterprague.org
+- [jewishmuseum.cz admission](https://www.jewishmuseum.cz/en/info/visit/admission/) — jewishmuseum.cz
+- [jewishmuseum.cz opening hours](https://www.jewishmuseum.cz/en/info/visit/opening-hours/) — jewishmuseum.cz
+- [https://www.jizdaferrari.cz/zazitek/jizda-ferrari-polygon-pribram](https://www.jizdaferrari.cz/zazitek/jizda-ferrari-polygon-pribram) — jizdaferrari.cz
+- [https://www.jump-tandem.com/pricing](https://www.jump-tandem.com/pricing) — jump-tandem.com
+- [https://www.jump-tandem.com/](https://www.jump-tandem.com/) — jump-tandem.com
+- [https://www.kart-centrum.cz/cenik](https://www.kart-centrum.cz/cenik) — kart-centrum.cz
+- [https://kartplanet.cz/en/reservations/](https://kartplanet.cz/en/reservations/) — kartplanet.cz
+- [PDF ישיר](https://www.kehilaprag.cz/docs/2577-Kosher%20List%202026%20(products%20under%20the%20supervision%20of%20the%20Rabbiinate%20JCP) — kehilaprag.cz
+- [PDF ישיר](https://www.kehilaprag.cz/docs/2615-kosher_list_foreign_2026.pdf) — kehilaprag.cz
+- [kehilaprag.cz](https://www.kehilaprag.cz/en/page/shalom-restaurant-kosher-store_369) — kehilaprag.cz
+- [kehilaprag.cz](https://www.kehilaprag.cz/en) — kehilaprag.cz
+- [kehilaprag.cz — Jewish Prague](https://www.kehilaprag.cz/en/tourism/jewish-prague) — kehilaprag.cz
+- [kehilaprag.cz — Kosher list](https://www.kehilaprag.cz/en/tourism/kosher-cr) — kehilaprag.cz
+- [kehilaprag.cz — Rabbinate](https://www.kehilaprag.cz/en/page/rabbinate) — kehilaprag.cz
+- [kehilaprag.cz — Tourism](https://www.kehilaprag.cz/en/turismus) — kehilaprag.cz
+- [https://www.khm.at/en/visit](https://www.khm.at/en/visit) — khm.at
+- [koshertraveling.co](https://koshertraveling.co/food/prague/dinitz/) — koshertraveling.co
+- [https://www.kudyznudy.cz/akce/lodni-doprava-na-pryglu-zahajeni](https://www.kudyznudy.cz/akce/lodni-doprava-na-pryglu-zahajeni) — kudyznudy.cz
+- [kudyznudy.cz](https://www.kudyznudy.cz/akce/film-a-architektura-2017) — kudyznudy.cz
+- [kudyznudy.cz — Den architektury 2026](https://www.kudyznudy.cz/akce/podzimni-den-architektury-postaveno-na-vode) — kudyznudy.cz
+- [kudyznudy.cz — Vinobraní na Grébovce](https://www.kudyznudy.cz/akce/vinobrani-na-grebovce-1) — kudyznudy.cz
+- [https://www.kunsthauswien.com/besuch](https://www.kunsthauswien.com/besuch) — kunsthauswien.com
+- [kutatokejszakaja.hu](https://www.kutatokejszakaja.hu/) — kutatokejszakaja.hu
+- [lafinestra.lacollezione.cz](https://lafinestra.lacollezione.cz/en/) — lafinestra.lacollezione.cz
+- [https://www.legendyuvas.cz/en/experience-rides-in-cars/](https://www.legendyuvas.cz/en/experience-rides-in-cars/) — legendyuvas.cz
+- [lehkahlava.cz](https://www.lehkahlava.cz/en/) — lehkahlava.cz
+- [https://www.leopoldmuseum.org/en/visit](https://www.leopoldmuseum.org/en/visit) — leopoldmuseum.org
+- [lesmoules.cz](https://www.lesmoules.cz/en/) — lesmoules.cz
+- [letnany.jumppark.cz — מחירון רשמי](https://letnany.jumppark.cz/en/cenik/) — letnany.jumppark.cz
+- [https://levelsprague.com/en/activity/simulators/](https://levelsprague.com/en/activity/simulators/) — levelsprague.com
+- [https://levelsprague.com/en/play/](https://levelsprague.com/en/play/) — levelsprague.com
+- [https://lokal-ucaipla.ambi.cz/en/menu/?id=17809](https://lokal-ucaipla.ambi.cz/en/menu/?id=17809) — lokal-ucaipla.ambi.cz
+- [https://lokal-ucaipla.ambi.cz/en/**](https://lokal-ucaipla.ambi.cz/en/**) — lokal-ucaipla.ambi.cz
+- [Lonely Planet](https://www.lonelyplanet.com/articles/prague-with-kids) — lonelyplanet.com
+- [lubavitch.com — center 118213](https://www.lubavitch.com/centers/118213) — lubavitch.com
+- [ludwigmuseum.hu](https://www.ludwigmuseum.hu/en/opening-hours-and-ticket-prices) — ludwigmuseum.hu
+- [madrich.cz](https://madrich.cz/kosher-restaurants-guide-prague/) — madrich.cz
+- [magyarhirlap 04/04/2026](https://magyarhirlap.hu/belfold/20260404-megnyitja-kapuit-a-citadella) — magyarhirlap.hu
+- [https://www.mak.at/lndm2026](https://www.mak.at/lndm2026) — mak.at
+- [https://www.mak.at/besuch](https://www.mak.at/besuch) — mak.at
+- [mementopark.hu](https://www.mementopark.hu/en/information/public-transportation/) — mementopark.hu
+- [https://mendelmuseum.muni.cz/cs/kontakty/oteviraci-doba-a-vstupne**](https://mendelmuseum.muni.cz/cs/kontakty/oteviraci-doba-a-vstupne**) — mendelmuseum.muni.cz
+- [https://www.metailimbaolam.com/%D7%90%D7%98%D7%A8%D7%A7%D7%A6%D7%99%D7%95%D7%AA-%D7%91%D7%A4%D7%A8%D7%90%D7%92/](https://www.metailimbaolam.com/%D7%90%D7%98%D7%A8%D7%A7%D7%A6%D7%99%D7%95%D7%AA-%D7%91%D7%A4%D7%A8%D7%90%D7%92/) — metailimbaolam.com · נמסר ידנית
+- [http://www.migflug.com/en/jet-fighter-flights/flying-with-a-jet/l-39-albatros-in-czech-republic.html](http://www.migflug.com/en/jet-fighter-flights/flying-with-a-jet/l-39-albatros-in-czech-republic.html) — migflug.com
+- [https://mindmaze.cz/en/](https://mindmaze.cz/en/) — mindmaze.cz
+- [https://moravska-galerie.cz/vstupne/**](https://moravska-galerie.cz/vstupne/**) — moravska-galerie.cz
+- [https://moravska-galerie.cz/kontakt/**](https://moravska-galerie.cz/kontakt/**) — moravska-galerie.cz
+- [https://moravska-galerie.cz/](https://moravska-galerie.cz/) — moravska-galerie.cz
+- [https://moravsky-kras.caves.cz/informace**](https://moravsky-kras.caves.cz/informace**) — moravsky-kras.caves.cz
+- [https://www.moravskykras.net/doprava.html**](https://www.moravskykras.net/doprava.html**) — moravskykras.net
+- [morskysvet.cz](https://morskysvet.cz/en/) — morskysvet.cz
+- [https://www.motokary-praha.cz/en/go-karting-prague/](https://www.motokary-praha.cz/en/go-karting-prague/) — motokary-praha.cz
+- [https://www.motokary-praha.cz/ceny-pro-jednotlivce/](https://www.motokary-praha.cz/ceny-pro-jednotlivce/) — motokary-praha.cz
+- [museum.hu](https://www.museum.hu/muzeum/33/Iparmuveszeti_Muzeum/info) — museum.hu
+- [https://museum.skoda-auto.com/tours-tickets](https://museum.skoda-auto.com/tours-tickets) — museum.skoda-auto.com
+- [https://museum.skoda-auto.com/](https://museum.skoda-auto.com/) — museum.skoda-auto.com
+- [museumofbricks.cz](https://museumofbricks.cz/en/) — museumofbricks.cz
+- [https://www.mzm.cz/mista/oteviraci-doba-a-vstupne**](https://www.mzm.cz/mista/oteviraci-doba-a-vstupne**) — mzm.cz
+- [https://www.mzm.cz/kdyz-brnem-tahli-mamuti-galerie-zdenka-buriana**](https://www.mzm.cz/kdyz-brnem-tahli-mamuti-galerie-zdenka-buriana**) — mzm.cz
+- [napfenyesetterem.hu](https://napfenyesetterem.hu/elerhetoseg/) — napfenyesetterem.hu
+- [nasestrecha.cz](https://www.nasestrecha.cz/kalendar-akci/byt-ci-nebyt-to-je-otazka-kterou-klade-letosni-rocnik-festivalu-film-a-architektura/) — nasestrecha.cz
+- [neprajz.hu](https://www.neprajz.hu/latogatasok/nyitvatartas.html) — neprajz.hu
+- [ngprague.cz, buildings and opening hours](https://www.ngprague.cz/en/about/buildings) — ngprague.cz
+- [https://www.nhm.at/information](https://www.nhm.at/information) — nhm.at
+- [nhmus.hu](https://www.nhmus.hu/) — nhmus.hu
+- [nhmus.hu/araink](https://www.nhmus.hu/araink/) — nhmus.hu
+- [nm.cz](https://www.nm.cz/en/visit-us/buildings/museum-complex-of-the-national-museum) — nm.cz
+- [https://www.ntm.cz/pro-navstevniky](https://www.ntm.cz/pro-navstevniky) — ntm.cz
+- [https://www.ntm.cz/pro-navstevniky/prehled-vstupneho](https://www.ntm.cz/pro-navstevniky/prehled-vstupneho) — ntm.cz
+- [https://www.objevbrno.cz/cs/article/nejlepsi-akce-zari-v-brne-2026**](https://www.objevbrno.cz/cs/article/nejlepsi-akce-zari-v-brne-2026**) — objevbrno.cz
+- [ocarkady.cz](https://www.ocarkady.cz/en/) — ocarkady.cz
+- [Office Holidays, Czech Republic 2026](https://www.officeholidays.com/holidays/czech-republic/st-wenceslas-day) — officeholidays.com
+- [opentable.com](https://www.opentable.com/r/cottocrudo-prague) — opentable.com
+- [http://www.palladiumpraha.cz/en/`](http://www.palladiumpraha.cz/en/`) — palladiumpraha.cz
+- [palladiumpraha.cz](http://www.palladiumpraha.cz/en/) — palladiumpraha.cz
+- [palladiumpraha.cz](https://www.palladiumpraha.cz/en/) — palladiumpraha.cz
+- [patactvrt.cz](https://www.patactvrt.cz/) — patactvrt.cz
+- [piaconline.hu](https://piaconline.hu/en/central-market-hall/) — piaconline.hu
+- [PID operating calendar](https://pid.cz/jizdni-rady-podle-linek/kalendar-provozu/) — pid.cz
+- [pid.cz — How and where to buy tickets](https://pid.cz/en/tickets-and-fare/how-to-buy-ticket/) — pid.cz
+- [pid.cz — Tickets and fare](https://pid.cz/en/tickets-and-fare/) — pid.cz
+- [pidlitacka.cz — How to buy](https://www.pidlitacka.cz/en/how-to-buy) — pidlitacka.cz
+- [pizzanuova.cz](https://www.pizzanuova.cz/en/) — pizzanuova.cz
+- [https://podzemibrno.cz/en/mista/labyrint-pod-zelnym-trhem/**](https://podzemibrno.cz/en/mista/labyrint-pod-zelnym-trhem/**) — podzemibrno.cz
+- [https://www.polygonbrno.cz/drift-kurz/](https://www.polygonbrno.cz/drift-kurz/) — polygonbrno.cz
+- [https://www.polygonhradec.cz/kurzy/drift-skola](https://www.polygonhradec.cz/kurzy/drift-skola) — polygonhradec.cz
+- [https://pragaarena.cz/cs/cenik/](https://pragaarena.cz/cs/cenik/) — pragaarena.cz
+- [prague-boats.cz](https://www.prague-boats.cz/en) — prague-boats.cz
+- [prague-boats.cz dinner cruise](https://www.prague-boats.cz/prague-by-night-prague-dinner-cruise/) — prague-boats.cz
+- [prague-trip.com — טיפים](https://www.prague-trip.com/practical/tipping/) — prague-trip.com
+- [prague.eu](https://prague.eu/en/objevujte/zdeneks-oyster-bar/) — prague.eu
+- [prague.eu](https://prague.eu/en/objevujte/5th-district-restaurant-cafe-by-king-solomon/) — prague.eu
+- [prague.eu](https://prague.eu/en/objevujte/chabad-grill-restaurant/) — prague.eu
+- [prague.eu](https://prague.eu/en/objevujte/jerusalem-jubilee-synagogue-jeruzalemska-synagoga-jubilejni/) — prague.eu
+- [prague.eu](https://www.prague.eu/en/object/accommodation/789/kosher-hotel-king-david-prague) — prague.eu
+- [prague.eu](https://prague.eu/) — prague.eu
+- [prague.eu (רשמי)](https://prague.eu/en/objevujte/lokal-dlouha/) — prague.eu
+- [prague.eu (רשמי)](https://prague.eu/en/objevujte/cafe-savoy/) — prague.eu
+- [prague.eu (רשמי)](https://prague.eu/en/objevujte/u-modre-kachnicky-i/) — prague.eu
+- [prague.eu (רשמי)](https://prague.eu/en/objevujte/aquapalace-praha/) — prague.eu
+- [prague.eu (רשמי)](https://prague.eu/en/objevujte/sutka-aquacentrum/) — prague.eu
+- [prague.eu (רשמי)](https://prague.eu/en/objevujte/podoli-swimming-centre/) — prague.eu
+- [prague.eu (רשמי)](https://prague.eu/en/objevujte/museum-of-fantastic-illusions-muzeum-fantastickych-iluzi/) — prague.eu
+- [prague.eu Charles Bridge](https://prague.eu/en/objevujte/charles-bridge-karluv-most/) — prague.eu
+- [prague.eu Clementinum](https://prague.eu/en/objevujte/the-clementinum-astronomical-tower-and-baroque-library) — prague.eu
+- [prague.eu Havelský Market](https://prague.eu/en/objevujte/havelsky-market/) — prague.eu
+- [prague.eu IAM Illusion Art Museum](https://prague.eu/en/objevujte/illusion-art-museum-prague/) — prague.eu
+- [prague.eu Nový Smíchov](https://prague.eu/en/objevujte/novy-smichov/) — prague.eu
+- [prague.eu Old Town Bridge Tower](https://prague.eu/en/objevujte/old-town-bridge-tower-staromestska-mostecka-vez/) — prague.eu
+- [prague.eu Old Town Hall with Astronomical Clock](https://prague.eu/en/objevujte/old-town-hall-with-astronomical-clock-staromestska-radnice-s-orlojem/) — prague.eu
+- [prague.eu Petřín Tower](https://prague.eu/en/objevujte/petrin-tower-petrinska-rozhledna/) — prague.eu
+- [prague.eu Prague Castle page](http://prague.eu/en/object/places/93/prague-castle-prazsky-hrad) — prague.eu
+- [prague.eu Westfield Chodov](https://prague.eu/en/objevujte/westfield-chodov/) — prague.eu
+- [prague.eu — Manifesto Market Anděl](https://prague.eu/en/objevujte/manifesto-market-andel/) — prague.eu
+- [prague.eu — Náplavka Farmers Market](https://prague.eu/en/objevujte/naplavka-farmers-market/) — prague.eu
+- [prague.eu — Prague Castle](https://prague.eu/en/objevujte/prague-castle-prazsky-hrad/) — prague.eu
+- [prague.eu — festivals & celebrations](https://prague.eu/en/akce-kategorie/festivals-celebrations/) — prague.eu
+- [prague.eu, "Hradčany without barriers"](https://prague.eu/en/home/information/practical-information/accessible-prague/hradcany-without-barriers/) — prague.eu
+- [prague.eu, Accessible Prague — information and services](https://prague.eu/en/accessible-prague-information-and-services/) — prague.eu
+- [prague.eu, Museum of Prague main building](https://prague.eu/en/objevujte/the-prague-city-museum-main-building-muzeum-mesta-prahy/) — prague.eu
+- [prague.eu/en/objevujte/parizska-street/](https://prague.eu/en/objevujte/parizska-street/) — prague.eu
+- [http://prague.eu`](http://prague.eu`) — prague.eu`
+- [Prague Daily News, 5 July 2026](https://www.praguedaily.news/2026/07/05/trams-return-to-prague-castle-around-one-week-earlier-than-planned/) — praguedaily.news
+- [praguemorning.cz](https://praguemorning.cz/best-seafood-in-prague/) — praguemorning.cz
+- [Prague Old Car, sightseeing tours](https://pragueoldcar.com/sightseeing-tours/) — pragueoldcar.com
+- [praha-vysehrad.cz](https://www.praha-vysehrad.cz/en) — praha-vysehrad.cz
+- [praha-vysehrad.cz access and parking](https://www.praha-vysehrad.cz/en/access-and-parking/) — praha-vysehrad.cz
+- [praha.eu's events calendar](https://praha.eu/kalendar-akci) — praha.eu
+- [https://prazska.drbna.cz/zpravy/spolecnost/2463-ruske-kolo-na-praze-4-je-v-provozu-zajemcu-o-jizdu-bylo-malo.html](https://prazska.drbna.cz/zpravy/spolecnost/2463-ruske-kolo-na-praze-4-je-v-provozu-zajemcu-o-jizdu-bylo-malo.html) — prazska.drbna.cz
+- [Pražská drbna](https://prazska.drbna.cz/zpravy/kultura/20046-korunovacni-klenoty-znovu-vystavi-k-videni-budou-deset-dni-v-zari.html) — prazska.drbna.cz
+- [Pražský deník — פתיחת הקו](https://prazsky.denik.cz/zpravy-region/praha-trolejbus-letiste-veleslavin-jizdni-rad-prvni-jizda/) — prazsky.denik.cz
+- [https://www.prazskypatriot.cz/v-podoli-vyrostlo-ruske-kolo-radnice-se-tim-po-negativnich-reakcich-mistnich-bude-zabyvat/](https://www.prazskypatriot.cz/v-podoli-vyrostlo-ruske-kolo-radnice-se-tim-po-negativnich-reakcich-mistnich-bude-zabyvat/) — prazskypatriot.cz
+- [Pražský patriot](https://www.prazskypatriot.cz/prazsky-hrad-opet-vystavi-korunovacni-klenoty-letos-pripomene-habsburky/) — prazskypatriot.cz
+- [prg.aero — MHD autobusem na letiště](https://www.prg.aero/mhd-autobusem-na-letiste) — prg.aero
+- [programturizmus](https://www.programturizmus.hu/ajanlat-budapesti-fesztivalok-fovarosi-fesztivalnaptar.html) — programturizmus.hu
+- [pspodoli.cz](https://pspodoli.cz/en/price-list/) — pspodoli.cz
+- [https://punkevni.caves.cz/oteviraci-doba**](https://punkevni.caves.cz/oteviraci-doba**) — punkevni.caves.cz
+- [https://www.realne-simulatory.cz/en/automobilove-simulatory/formule-1-racing](https://www.realne-simulatory.cz/en/automobilove-simulatory/formule-1-racing) — realne-simulatory.cz
+- [https://www.redadventuresprague.com/tank-driving/](https://www.redadventuresprague.com/tank-driving/) — redadventuresprague.com
+- [restaurace-maitrea.cz — Kontakt](https://www.restaurace-maitrea.cz/kontakt/) — restaurace-maitrea.cz
+- [https://roastfestival.eu/en**](https://roastfestival.eu/en**) — roastfestival.eu
+- [https://www.schnitzelwirt.co.at/](https://www.schnitzelwirt.co.at/) — schnitzelwirt.co.at
+- [seafoodmarket.cz](https://www.seafoodmarket.cz/en/) — seafoodmarket.cz
+- [sedlec.info](https://www.sedlec.info/en/) — sedlec.info
+- [signalfestival.com — Programme](https://www.signalfestival.com/en/program-and-map/) — signalfestival.com
+- [https://www.skalnimlyn.cz/krasobus-blansko/**](https://www.skalnimlyn.cz/krasobus-blansko/**) — skalnimlyn.cz
+- [https://www.smsticket.cz/vstupenky/70512-spilas-nahlas-2026-letni-kino-spilberk-brno-diva-bara-black-row-seykory**](https://www.smsticket.cz/vstupenky/70512-spilas-nahlas-2026-letni-kino-spilberk-brno-diva-bara-black-row-seykory**) — smsticket.cz
+- [sokol.eu — Noc sokoloven](https://sokol.eu/projekt/noc-sokoloven) — sokol.eu
+- [https://solveprague.cz/en/](https://solveprague.cz/en/) — solveprague.cz
+- [https://www.spilberk.cz/oteviraci-doba/t404**](https://www.spilberk.cz/oteviraci-doba/t404**) — spilberk.cz
+- [strahovskyklaster.cz online tickets](https://www.strahovskyklaster.cz/en/for-visitors/online-tickets) — strahovskyklaster.cz
+- [sutka.eu — מחירון רשמי](https://www.sutka.eu/pricelist-new/) — sutka.eu
+- [sutka.eu — שעות](https://www.sutka.eu/oteviraci-doba) — sutka.eu
+- [synagogue.cz](https://www.synagogue.cz/en/old-new-synagogue) — synagogue.cz
+- [synagogue.cz — Jerusalem Synagogue](https://www.synagogue.cz/en/jerusalem-synagogue) — synagogue.cz
+- [מחירים](https://szemlo-hegyi-barlang.hu/?page_id=167&lang=en) — szemlo-hegyi-barlang.hu
+- [שעות](https://szemlo-hegyi-barlang.hu/?page_id=165&lang=en) — szemlo-hegyi-barlang.hu
+- [tabiji.ai](https://tabiji.ai/scams/prague/) — tabiji.ai
+- [tancici-dum.cz](https://www.tancici-dum.cz/en/) — tancici-dum.cz
+- [tasteofprague.com](https://www.tasteofprague.com/pragueblog/prague-michelin-star-restaurants-guide) — tasteofprague.com
+- [thebettervacation.com (משני)](https://thebettervacation.com/prague/aquapalace-praha/) — thebettervacation.com
+- [timeout.com](https://www.timeout.com/prague/restaurants/best-restaurants-in-prague) — timeout.com
+- [https://toprange.cz/](https://toprange.cz/) — toprange.cz
+- [totallyjewishtravel](https://www.totallyjewishtravel.com/Kosher_Restaurant-TE67015-mizlala_prague-Reviews-prague_czech_republic.html) — totallyjewishtravel.com
+- [towerpark.cz — Observator](https://towerpark.cz/observator/) — towerpark.cz
+- [trhyjirak.cz](https://trhyjirak.cz/) — trhyjirak.cz
+- [trhypraha.cz — Program](https://trhypraha.cz/program) — trhypraha.cz
+- [TripAdvisor Prague Forum](https://www.tripadvisor.com/ShowTopic-g274707-i96-k14436569-Restaurant_Reservations_Required_In_August-Prague_Bohemia.html) — tripadvisor.com
+- [Týden.cz](https://www.tyden.cz/korunovacni-klenoty-budou-letos-vystaveny-pro-verejnost-od-18-do-28-zari) — tyden.cz
+- [umodrekachnicky.cz](https://www.umodrekachnicky.cz/en/michalska) — umodrekachnicky.cz
+- [utazzitthon.hu](https://utazzitthon.hu/latnivalo/budapest/kozponti-vasarcsarnok-359) — utazzitthon.hu
+- [https://www.vegan.cz/clanky/nejlepsi-vegetarianske-restaurace-brno/](https://www.vegan.cz/clanky/nejlepsi-vegetarianske-restaurace-brno/) — vegan.cz
+- [vegan.cz](https://www.vegan.cz/clanky/nejlepsi-vegan-restaurace-praha/) — vegan.cz
+- [https://www.viennadesignweek.at/en/](https://www.viennadesignweek.at/en/) — viennadesignweek.at
+- [viewfromprague.com](https://www.viewfromprague.com/outdoor-swimming-in-prague/) — viewfromprague.com
+- [viewfromprague.com — מחירי מזון](https://www.viewfromprague.com/food-and-drink-prices/) — viewfromprague.com
+- [viewfromprague.com — מלכודות תיירים](https://www.viewfromprague.com/how-to-avoid-prague-tourist-traps/) — viewfromprague.com
+- [https://www.vilalowbeer.cz/cz/pro-navstevniky**](https://www.vilalowbeer.cz/cz/pro-navstevniky**) — vilalowbeer.cz
+- [https://www.vilatugendhat.cz/prohlidky-a-vstupenky/**](https://www.vilatugendhat.cz/prohlidky-a-vstupenky/**) — vilatugendhat.cz
+- [https://www.vilatugendhat.cz/en/news/**](https://www.vilatugendhat.cz/en/news/**) — vilatugendhat.cz
+- [VisitCzechia](https://www.visitczechia.com/en-us/news/2025/12/n-michelin-guide-czechia-2025) — visitczechia.com
+- [VisitCzechia](https://www.visitczechia.com/en-us/things-to-do/places/gastronomic-tourism/restaurants-and-cafes/g-prague-5th-district-king-solomon) — visitczechia.com
+- [VisitCzechia](https://www.visitczechia.com/en-us/things-to-do/places/accommodation/hotels/g-prague-hotel-king-david) — visitczechia.com
+- [visitczechia.com](https://www.visitczechia.com/en-us/things-to-do/events/2026/10/e-prague-signal-festival) — visitczechia.com
+- [https://vrplaypark.com/en/racingsim](https://vrplaypark.com/en/racingsim) — vrplaypark.com
+- [https://vrplaypark.com/en](https://vrplaypark.com/en) — vrplaypark.com
+- [Weather Spark — August in Prague](https://weatherspark.com/m/77807/8/Average-Weather-in-August-in-Prague-Czechia) — weatherspark.com
+- [Weather Spark — October in Prague](https://weatherspark.com/m/77807/10/Average-Weather-in-October-in-Prague-Czechia) — weatherspark.com
+- [Weather Spark — September in Prague](https://weatherspark.com/m/77807/9/Average-Weather-in-September-in-Prague-Czechia) — weatherspark.com
+- [welovebudapest](https://welovebudapest.com/toplista/budapesti-kalauz-vegetarianusoknak-es-veganoknak) — welovebudapest.com
+- [welovebudapest 03/10/2024](https://welovebudapest.com/toplista/magyar-gasztronomia-magyaros-etelek-etterem/) — welovebudapest.com
+- [welovebudapest 12/03/2026](https://welovebudapest.com/cikk/2026/03/12/citadella-felujitas-nyitas-2026/) — welovebudapest.com
+- [welovebudapest 22/06/2026](https://welovebudapest.com/cikk/2026/06/22/iparmuveszeti-muzeum-felujitasa-kepek-2026-junius/) — welovebudapest.com
+- [welovebudapest 29/05/2026](https://welovebudapest.com/cikk/2026/05/29/iparmuveszeti-muzeum-felujitas-zsolnay-porcelanmanufaktura-tamogatas-2026/) — welovebudapest.com
+- [https://www.weltmuseumwien.at/en/visit](https://www.weltmuseumwien.at/en/visit) — weltmuseumwien.at
+- [https://www.wien.gv.at/freizeit/lainzer-tiergarten-besucherinformationen](https://www.wien.gv.at/freizeit/lainzer-tiergarten-besucherinformationen) — wien.gv.at
+- [https://www.wien.gv.at/freizeit/flohmarkt-naschmarkt](https://www.wien.gv.at/freizeit/flohmarkt-naschmarkt) — wien.gv.at
+- [https://www.wien.info/en/now-on/events/viennese-kaiser-wiesn-2025-936180](https://www.wien.info/en/now-on/events/viennese-kaiser-wiesn-2025-936180) — wien.info
+- [https://www.wien.info/en/livable-vienna/sustainable-vienna/hungry-for-vegan-348498](https://www.wien.info/en/livable-vienna/sustainable-vienna/hungry-for-vegan-348498) — wien.info
+- [https://www.wien.info/en/dine-drink/restaurants/in-places/salonplafond-357246](https://www.wien.info/en/dine-drink/restaurants/in-places/salonplafond-357246) — wien.info
+- [https://www.wien.info/en/travel-info/transport/tickets-361360](https://www.wien.info/en/travel-info/transport/tickets-361360) — wien.info
+- [https://wienerriesenrad.com/en/opening-times/](https://wienerriesenrad.com/en/opening-times/) — wienerriesenrad.com
+- [Wise CZK→EUR history](https://wise.com/us/currency-converter/czk-to-eur-rate/history) — wise.com
+- [zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2016-223) — zakonyprolidi.cz
+- [zenehaza.hu FAQ](https://zenehaza.hu/gyakran-ismetelt-kerdesek) — zenehaza.hu
+- [zenehaza.hu/en/opening-hours](https://zenehaza.hu/en/opening-hours) — zenehaza.hu
+- [https://www.zentralfriedhof-wien.com/oeffnungszeiten/](https://www.zentralfriedhof-wien.com/oeffnungszeiten/) — zentralfriedhof-wien.com
+- [https://zerolatencyprague.cz/en/](https://zerolatencyprague.cz/en/) — zerolatencyprague.cz
+- [zlutelazne.cz](https://www.zlutelazne.cz/en) — zlutelazne.cz
+- [https://www.zoobrno.cz/vstupne**](https://www.zoobrno.cz/vstupne**) — zoobrno.cz
+- [מחירים](https://zoobudapest.com/en/tickets-and-passes/prices/) — zoobudapest.com
+- [שעות](https://zoobudapest.com/en/for-visitors/opening-hours/) — zoobudapest.com
+- [zoopraha.cz — מחירון רשמי](https://www.zoopraha.cz/en/before-visit/admission-prices) — zoopraha.cz

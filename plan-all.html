@@ -1,0 +1,1606 @@
+<!doctype html>
+<!-- generated:1e40a3b245c08de5 -->
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>תוכנית יומית — ברנו · פראג · וינה · בודפשט, 11/09–02/10/2026</title>
+<style>
+  /* ===== ערכת נושא: אנרוסדירה — סלע ורוד ואשוח כהה =====
+     סט אחד עם הדוח המורחב: הזוהר הוורוד שנופל על צוקי הדולומיט
+     בשקיעה, מול ירוק כהה של יערות אשוח ואפור-אבן.
+     רקע כמעט ניטרלי בגוון סלע חם; האקצנט הרווי חי בכותרות,
+     בקווים ובמספרים — לא מתחת לפסקאות.
+     ניגודיות שנבדקה (בהיר): גוף/רקע 16.2:1 · משני/רקע 7.1:1 ·
+     אקצנט/רקע 6.1:1 · אקצנט/משטח 5.4:1 · אזהרה 5.6:1 · התראה 6.9:1.
+     כהה: גוף 15.0:1 · משני 7.5:1 · אקצנט 7.7:1 · אזהרה 8.0:1 · התראה 7.3:1. */
+
+  :root {
+    /* --- כיוון ורקע יושבים על :root, לאירוח כעמוד חי --- */
+    direction: rtl;
+    background: #faf6f4;
+
+    --bg:         #faf6f4;
+    --surface:    #f0e7e4;
+    --fg:         #1b1a19;
+    --muted:      #5a524f;
+    --rule:       #ded1cd;
+    --accent:     #9c3b57;
+    --accent-2:   #23392f;
+    --code-bg:    #f2ebe8;
+    --warn-bg:    #faf1e6;
+    --warn-line:  #8a5410;
+    --alert-bg:   #fbeceb;
+    --alert-line: #9d211f;
+    --font-body:  "Segoe UI", "Noto Sans Hebrew", "Arial Hebrew", Arial, sans-serif;
+    --font-head:  "Segoe UI Semibold", "Segoe UI", "Noto Sans Hebrew", "Arial Hebrew", Arial, sans-serif;
+    --font-mono:  Consolas, "Courier New", monospace;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      background: #141110;
+      --bg:         #141110;
+      --surface:    #1e1917;
+      --fg:         #ece4e0;
+      --muted:      #ada19c;
+      --rule:       #3a302d;
+      --accent:     #e88ba2;
+      --accent-2:   #a9c6b3;
+      --code-bg:    #1a1614;
+      --warn-bg:    #211a12;
+      --warn-line:  #e0a659;
+      --alert-bg:   #241413;
+      --alert-line: #f08a80;
+    }
+  }
+
+  /* --- מתג נושא מפורש: גובר על העדפת המערכת --- */
+  :root[data-theme="light"] {
+    background: #faf6f4;
+    --bg:         #faf6f4;
+    --surface:    #f0e7e4;
+    --fg:         #1b1a19;
+    --muted:      #5a524f;
+    --rule:       #ded1cd;
+    --accent:     #9c3b57;
+    --accent-2:   #23392f;
+    --code-bg:    #f2ebe8;
+    --warn-bg:    #faf1e6;
+    --warn-line:  #8a5410;
+    --alert-bg:   #fbeceb;
+    --alert-line: #9d211f;
+  }
+  :root[data-theme="dark"] {
+    background: #141110;
+    --bg:         #141110;
+    --surface:    #1e1917;
+    --fg:         #ece4e0;
+    --muted:      #ada19c;
+    --rule:       #3a302d;
+    --accent:     #e88ba2;
+    --accent-2:   #a9c6b3;
+    --code-bg:    #1a1614;
+    --warn-bg:    #211a12;
+    --warn-line:  #e0a659;
+    --alert-bg:   #241413;
+    --alert-line: #f08a80;
+  }
+
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    padding: 0 1.1rem 3rem;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: var(--font-body);
+    font-size: 1rem;
+    line-height: 1.55;
+    -webkit-text-size-adjust: 100%;
+  }
+  main, .hero-inner { max-width: 46rem; margin: 0 auto; }
+
+  /* ---------- אייקונים ---------- */
+  .ico {
+    width: 1.05em; height: 1.05em;
+    vertical-align: -0.13em;
+    margin-left: 0.4em;
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 1.9;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    flex: 0 0 auto;
+  }
+
+  /* ---------- קישוט שוליים ---------- */
+  .band { display: block; width: 100%; height: 11px; color: var(--accent); opacity: .45; }
+
+  /* ---------- כותרת פתיחה ---------- */
+  .hero {
+    position: relative;
+    margin: 0 -1.1rem 1rem;
+    padding: 1.7rem 1.1rem .9rem;
+    background: var(--surface);
+    border-bottom: 3px solid var(--accent);
+    overflow: hidden;
+  }
+  .kicker {
+    margin: 0 0 .4rem;
+    font-family: var(--font-head);
+    font-size: .78rem; font-weight: 700;
+    letter-spacing: .07em;
+    color: var(--accent);
+  }
+  .hero h1 {
+    margin: 0 0 .45rem;
+    font-family: var(--font-head);
+    font-size: clamp(1.5rem, 5vw, 2.15rem);
+    line-height: 1.16;
+    letter-spacing: -.015em;
+  }
+  .dek { margin: 0 0 .55rem; font-size: 1rem; line-height: 1.5; color: var(--muted); }
+  .facts { margin: 0 0 .35rem; font-size: .92rem; line-height: 1.55; }
+  .facts b { color: var(--accent-2); }
+
+  /* ---------- הסבר קריאה ---------- */
+  .howto {
+    background: var(--surface);
+    border-right: 3px solid var(--accent);
+    border-radius: 8px;
+    padding: .6rem .8rem;
+    margin: 0 0 1rem;
+    font-size: .93rem;
+    line-height: 1.5;
+  }
+  .howto p { margin: 0; }
+  /* השורה השנייה בבלוק היא רשימת הסגורים לכל אורך הטיול. היא יושבת כאן
+     ולא בתוך כל יום, כי נקודה שסגורה בכל שישה הימים אינה "סגורה היום". */
+  .howto p + p { margin-top: .3rem; padding-top: .3rem; border-top: 1px solid var(--rule); }
+  .howto .dim { color: var(--muted); font-size: .92em; white-space: nowrap; }
+
+  /* ---------- מבנה עמודים ---------- */
+  .sheet { position: relative; }
+  .sheet + .sheet { margin-top: 2rem; border-top: 1px solid var(--rule); padding-top: 1.3rem; }
+
+  /* ---------- יום ---------- */
+  .day { margin: 0 0 1.3rem; }
+  .day h2 {
+    display: flex; align-items: center;
+    font-family: var(--font-head);
+    font-size: 1.22rem; line-height: 1.3;
+    margin: 0 0 .35rem;
+    padding-bottom: .28rem;
+    border-bottom: 2px solid var(--accent);
+    color: var(--accent-2);
+  }
+  .meta {
+    margin: 0 0 .45rem;
+    font-size: .86rem;
+    line-height: 1.5;
+    color: var(--muted);
+  }
+  .meta b { color: var(--fg); }
+  .meta .sep { color: var(--rule); padding: 0 .15em; }
+
+  /* ---------- טבלת הפריטים ---------- */
+  .scroll { overflow-x: auto; }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0;
+    font-size: .9rem;
+    line-height: 1.42;
+  }
+  th, td { border: 1px solid var(--rule); padding: .32rem .45rem; text-align: right; vertical-align: top; }
+  th {
+    background: var(--code-bg);
+    font-family: var(--font-head);
+    font-weight: 700;
+    color: var(--accent-2);
+    font-size: .86em;
+  }
+  td:first-child { background: var(--code-bg); }
+  .dur { white-space: nowrap; font-variant-numeric: tabular-nums; color: var(--accent-2); font-family: var(--font-head); }
+  .tel-inline { direction: ltr; unicode-bidi: embed; font-family: var(--font-mono); font-size: .9em; white-space: nowrap; }
+  /* `isolate`, not `embed`. Both lay the run out left-to-right, but `embed`
+     leaves the run's own edges negotiating with the Hebrew around them, so a
+     trailing bracket or comma still migrates across the boundary. `isolate`
+     treats the whole run as one neutral object in the RTL line, which is what
+     keeps "קו B, יציאה 3" from reading back as "3 יציאה ,B קו". */
+  .lat { direction: ltr; unicode-bidi: isolate; }
+
+  /* ---------- אופציות לכל יום ---------- */
+  .optlead {
+    margin: .55rem 0 .3rem;
+    font-size: .82em;
+    color: var(--muted);
+  }
+  .optlead b { color: var(--accent-2); }
+  table.opt { font-size: .92em; }
+  table.opt td:first-child { background: transparent; font-weight: 700; }
+
+
+  /* ---------- שלושת הצבעים: מתוכנן, בסביבה, אוכל ----------
+     סמנטי ולא קישוטי. ירוק הוא מה שנקבע להיום, כתום הוא מה שיש מסביב אם היום
+     נשבר, וכחול הוא איפה אוכלים. הצבעים כתובים כערכים ולא כמשתני ערכה, כי
+     הזיהוי צריך לעבוד בכל ערכה שבה המסמך ירונדר. */
+  :root {
+    --t-plan-line: #2f6b41;  --t-plan-bg: #edf5ef;  --t-plan-head: #e0eee4;
+    --t-near-line: #a2560c;  --t-near-bg: #fdf3e7;  --t-near-head: #fae7d0;
+    --t-eat-line:  #1f5c7a;  --t-eat-bg:  #ecf3f8;  --t-eat-head: #d9e9f2;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --t-plan-line: #86c79b;  --t-plan-bg: #16211a;  --t-plan-head: #1d2f23;
+      --t-near-line: #e2a35d;  --t-near-bg: #241c11;  --t-near-head: #33270f;
+      --t-eat-line:  #82b8d6;  --t-eat-bg:  #131e25;  --t-eat-head: #172c37;
+    }
+  }
+  :root[data-theme="dark"] {
+    --t-plan-line: #86c79b;  --t-plan-bg: #16211a;  --t-plan-head: #1d2f23;
+    --t-near-line: #e2a35d;  --t-near-bg: #241c11;  --t-near-head: #33270f;
+    --t-eat-line:  #82b8d6;  --t-eat-bg:  #131e25;  --t-eat-head: #172c37;
+  }
+
+  table.t-plan th, table.t-plan td,
+  table.opt.t-near th, table.opt.t-near td,
+  table.opt.t-eat th,  table.opt.t-eat td { border-color: var(--tint-line); }
+  table.t-plan     { --tint-line: var(--t-plan-line); --tint-bg: var(--t-plan-bg); --tint-head: var(--t-plan-head); }
+  table.opt.t-near { --tint-line: var(--t-near-line); --tint-bg: var(--t-near-bg); --tint-head: var(--t-near-head); }
+  table.opt.t-eat  { --tint-line: var(--t-eat-line);  --tint-bg: var(--t-eat-bg);  --tint-head: var(--t-eat-head); }
+
+  table.t-plan th, table.opt.t-near th, table.opt.t-eat th {
+    background: var(--tint-head);
+    color: var(--tint-line);
+  }
+  table.t-plan td, table.opt.t-near td, table.opt.t-eat td { background: var(--tint-bg); }
+  table.t-plan td:first-child { background: var(--tint-head); }
+  table.opt.t-near td:first-child, table.opt.t-eat td:first-child { background: var(--tint-bg); }
+  /* A rule down the leading edge. An inset shadow and not a border: it paints
+     inside the box and takes no layout, so the page budget is unchanged. */
+  table.t-plan, table.opt.t-near, table.opt.t-eat { box-shadow: inset -3px 0 0 var(--tint-line); }
+  .optlead.t-near b { color: var(--t-near-line); }
+  .optlead.t-eat  b { color: var(--t-eat-line); }
+  /* The duration column takes its colour from the table it is in. */
+  table.t-plan .dur, table.opt.t-near .dur, table.opt.t-eat .dur { color: var(--tint-line); }
+
+  @media print {
+    /* Backgrounds are the whole point here, so they must survive the printer. */
+    table.t-plan, table.opt.t-near, table.opt.t-eat,
+    table.t-plan th, table.t-plan td,
+    table.opt.t-near th, table.opt.t-near td,
+    table.opt.t-eat th,  table.opt.t-eat td {
+      -webkit-print-color-adjust: exact; print-color-adjust: exact;
+    }
+  }
+
+  /* ---------- סימונים ---------- */
+  .w  { color: var(--warn-line); font-weight: 700; }
+  .a  { color: var(--alert-line); font-weight: 700; }
+  .stat { font-family: var(--font-head); font-weight: 700; color: var(--accent); font-variant-numeric: tabular-nums; }
+
+  .sheetfoot {
+    margin: .9rem 0 0;
+    padding-top: .35rem;
+    border-top: 1px solid var(--rule);
+    font-size: .74rem;
+    line-height: 1.4;
+    color: var(--muted);
+    display: flex;
+    justify-content: space-between;
+    gap: .6rem;
+    flex-wrap: wrap;
+  }
+
+  /* ===================== הדפסה / PDF ===================== */
+  @media print {
+    @page { size: A4; margin: 12mm; }
+
+    :root,
+    :root[data-theme="light"],
+    :root[data-theme="dark"] {
+      background: #ffffff;
+      --bg:         #ffffff;
+      --surface:    #f5efed;
+      --fg:         #000000;
+      --muted:      #3a3634;
+      --rule:       #9a9290;
+      --accent:     #7a2340;
+      --accent-2:   #1a2b23;
+      --code-bg:    #f1e9e6;
+      --warn-bg:    #fbf4ea;
+      --warn-line:  #6b3f0c;
+      --alert-bg:   #fbefee;
+      --alert-line: #7d1a17;
+    }
+
+    body {
+      padding: 0;
+      font-size: 9.4pt;
+      line-height: 1.44;
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+    main, .hero-inner { max-width: none; }
+
+    .hero { margin: 0 0 .4rem; padding: 0 0 .4rem; background: none; border-bottom: 2.5pt solid var(--accent); }
+    .hero h1 { font-size: 17.5pt; margin-bottom: .14rem; }
+    .kicker { font-size: 7.9pt; margin-bottom: .14rem; }
+    .dek { font-size: 9.2pt; margin-bottom: .2rem; }
+    .facts { font-size: 9pt; margin-bottom: .14rem; line-height: 1.44; }
+
+    .howto { margin: 0 0 .45rem; padding: .35rem .5rem; font-size: 8.8pt; line-height: 1.42; border-radius: 4px; border-right-width: 2pt; }
+    .howto p + p { margin-top: .18rem; padding-top: .18rem; }
+
+    /* חלוקת העמודים — מכוונת, שני ימים לעמוד */
+    .sheet { break-before: page; page-break-before: always; }
+    .sheet:first-of-type { break-before: auto; page-break-before: auto; }
+    .sheet + .sheet { margin-top: 0; border-top: 0; padding-top: 0; }
+
+    .day { margin-bottom: .5rem; }
+    .day h2 { font-size: 12.4pt; margin: 0 0 .18rem; padding-bottom: .12rem; border-bottom-width: 1.4pt; break-after: avoid; page-break-after: avoid; }
+    .meta { font-size: 8.4pt; margin-bottom: .18rem; line-height: 1.42; }
+
+    table { font-size: 8pt; line-height: 1.36; }
+    th, td { padding: .17rem .3rem; }
+    th { font-size: 7.8pt; }
+    .scroll { overflow: visible; }
+
+    .sheetfoot { margin-top: .4rem; font-size: 7.3pt; padding-top: .18rem; }
+    .band { height: 6px; opacity: .5; }
+
+    .optlead { font-size: 7.6pt; margin: .35rem 0 .18rem; }
+    table.opt { font-size: 8.2pt; }
+
+    /* שום יום, טבלה או שורה לא נשברים באמצע */
+    table, tr, .day, .howto, h2 {
+      break-inside: avoid;
+      page-break-inside: avoid;
+    }
+    /* שורת הפתיחה נשארת עם הטבלה שלה */
+    .optlead { break-after: avoid; page-break-after: avoid; }
+  }
+
+  /* טלפונים נשארים טקסט; אם ראובן הופך אותם לקישורים,
+     הצבע יורש כדי לשמור על יחסי הניגודיות שנבדקו. */
+  a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
+  a.tel { white-space: nowrap; text-decoration-style: dotted; }
+  @media print { a { text-decoration: none; } }
+
+  /* ------------------------------------------------------------------
+     כוונון סופי אחרי מדידה — מרווחים אנכיים בלבד.
+     המדידה על A4 (703x1032px, שוליים 12 מ"מ) החזירה גיליונות של
+     1001 / 961 / 1003 / 1030px. הרביעי נותר עם 2px פנויים בלבד,
+     והבדלי רינדור בין התצוגה למנוע ההדפסה גדולים מזה.
+     הבלוק הזה מוריד גובה שורה וריפוד תא בלבד — הגופן לא נגע,
+     כי זה מסמך שנקרא בבוקר ולפעמים בשמש, ותוכן יוצא ולא מתכווץ.
+     אחרי הכוונון: 965 / 917 / 956 / 983px, כלומר 67 / 115 / 76 / 49px
+     פנויים בכל גיליון.
+     ------------------------------------------------------------------ */
+  @media print {
+    table { line-height: 1.28; }
+    th, td { padding-top: .12rem; padding-bottom: .12rem; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ===== ספריית אייקונים: SVG inline, אפס תלות ברשת ===== -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
+  <defs>
+    <symbol id="i-lake" viewBox="0 0 24 24">
+      <path d="M2.6 14.4 8.2 6l4 5.6 2.6-3.4 6.6 6.2"/>
+      <path d="M2.6 18.2c1.6 0 1.6 1.4 3.2 1.4s1.6-1.4 3.2-1.4 1.6 1.4 3.2 1.4 1.6-1.4 3.2-1.4 1.6 1.4 3.2 1.4 1.6-1.4 3.2-1.4"/>
+    </symbol>
+    <symbol id="i-cow" viewBox="0 0 24 24">
+      <path d="M4.4 7.2c0-1.7 1.3-3 3-3h9.2c1.7 0 3 1.3 3 3v3.2a7.6 7.6 0 0 1-15.2 0z"/>
+      <path d="M4.4 7.2 2.2 5.4M19.6 7.2l2.2-1.8"/>
+      <path d="M9.4 9.6v.2M14.6 9.6v.2"/>
+      <path d="M9.8 14.8h4.4"/>
+      <path d="M12 18.4v3.2"/>
+    </symbol>
+    <symbol id="i-cable" viewBox="0 0 24 24">
+      <path d="M2.4 5.2 21.6 9.6"/>
+      <path d="M12 7.4v2.6"/>
+      <path d="M6.4 10.4h11.2l-1 8.4a1.6 1.6 0 0 1-1.6 1.4H9a1.6 1.6 0 0 1-1.6-1.4z"/>
+      <path d="M6.9 14.6h10.2"/>
+    </symbol>
+    <symbol id="i-peaks" viewBox="0 0 24 24">
+      <path d="M1.6 20.4 7 7.2l3.4 8"/>
+      <path d="M7.6 20.4 12.6 5.6l4.2 10.2"/>
+      <path d="M13.8 20.4 18.4 9.4l4 11z"/>
+      <path d="M1.6 20.4h20.8"/>
+    </symbol>
+    <symbol id="i-boat" viewBox="0 0 24 24">
+      <path d="M3 16.4h18l-2.2 4H5.2z"/>
+      <path d="M5.8 16.4V10h12.6l-2.6 6.4"/>
+      <path d="M12 10V3.6"/>
+    </symbol>
+    <symbol id="i-fort" viewBox="0 0 24 24">
+      <path d="M3.2 20.4V7.6h2.6V4.8h3.4v2.8h5.6V4.8h3.4v2.8h2.6v12.8z"/>
+      <path d="M9.6 20.4v-5.2h4.8v5.2"/>
+      <path d="M3.2 11.6h17.6"/>
+    </symbol>
+    <symbol id="i-market" viewBox="0 0 24 24">
+      <path d="M2.6 9.4h18.8l-1.6-4.6H4.2z"/>
+      <path d="M4.6 9.4v10.2h14.8V9.4"/>
+      <path d="M2.6 9.4a2.6 2.6 0 0 0 4.8 0 2.6 2.6 0 0 0 4.6 0 2.6 2.6 0 0 0 4.6 0 2.6 2.6 0 0 0 4.8 0"/>
+      <path d="M9.6 19.6v-5h4.8v5"/>
+    </symbol>
+    <symbol id="i-plane" viewBox="0 0 24 24">
+      <path d="M10.5 20.5 12 16l7.4-2.1a2 2 0 0 0 1.4-2.4l-.2-.7-8.2 1.5-3.1-5.6-1.8.5.9 6-4.2.8-1.5-2.4-1.3.4 1.1 4 4.4 1.2-.4 2.6z"/>
+    </symbol>
+
+    <!-- מוטיב שלוש הפסגות, מרוצף -->
+    <pattern id="tricime" width="26" height="12" patternUnits="userSpaceOnUse">
+      <path d="M0 11.4 4.4 3.2 8.2 11.4M8.6 11.4 13 1.6l4.2 9.8M17.6 11.4 21.6 4l4.4 7.4" fill="none" stroke="currentColor" stroke-width="1.4"/>
+    </pattern>
+  </defs>
+</svg>
+
+<main>
+<section class="sheet" id="sheet-1">
+  <header class="hero">
+    <div class="hero-inner">
+      <p class="kicker">תוכנית יומית · פריט־אחר־פריט</p>
+      <h1>ברנו · פראג · וינה · בודפשט, 11/09–02/10/2026</h1>
+      <p class="facts">4 נוסעים (14, 6.5) · 22 ימים, 21 לילות</p>
+    </div>
+  </header>
+
+  <svg class="band" viewBox="0 0 260 12" preserveAspectRatio="none" aria-hidden="true" focusable="false">
+    <rect width="260" height="12" fill="url(#tricime)"/>
+  </svg>
+
+  <section class="day">
+    <h2><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-peaks"/></svg>יום 1 · שישי <span class="lat">11/09</span></h2>
+    <p class="meta"><b>הדגש היום:</b> ברנו</p>
+    <div class="scroll">
+    <table class="t-plan">
+      <thead><tr><th style="width:25%">מה ואיפה</th><th style="width:62%">מה זה בפועל</th><th style="width:13%">כמה זמן</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>שוק הכרוב · <span class="lat">Zelný trh</span></td>
+          <td>שוק ירקות שפועל מאז המאה ה-13 בכיכר שבמרכז ברנו, מעל מרתפי הלבירינת ולצד ארמון דיטריכשטיין. הכניסה חופשית, והמעבר בין הדוכנים פתוח.</td>
+          <td class="dur">שעות <span class="w">▲</span> · כשעה</td>
+        </tr>
+        <tr>
+          <td>הלבירינת מתחת לשוק הכרוב · <span class="lat">Labyrint pod Zelným trhem</span></td>
+          <td>מרתפים מימי הביניים מתחת לכיכר השוק, מסדרונות ומחסנים שנחפרו לאורך מאות שנים. הכניסה האחרונה <span class="lat">17:30</span>, וההזמנה מומלצת מראש כי הקבוצות קטנות.</td>
+          <td class="dur">ג'-א' <span class="lat">9:00-18:00</span>, כניסה אחרונה <span class="lat">17:30</span> · שעה</td>
+        </tr>
+        <tr>
+          <td>גופאל · <span class="lat">Gopál</span></td>
+          <td>הודי צמחוני צפונית למרכז, תאלי ומסאלה דוסה. סגור בשבת ובראשון, ולכן הוא נופל רק על יום השישי הראשון בברנו.</td>
+          <td class="dur">ב'-ו' <span class="lat">11:00-18:00</span> · שעה</td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-near"><b>אם נשאר זמן, או שמשהו לא הסתדר.</b> עוד באותו אזור, בלי לשנות את שאר היום:</p>
+    <div class="scroll">
+    <table class="opt t-near">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>ארמון דיטריכשטיין</td><td>המוזיאון המורבי הארצי בקצה השוק. עולם המינרלים וחיים שנכחדו במורביה - עובד גם על בן <span class="lat">6.5</span>.</td><td class="dur">כ-1 דק' הליכה משוק הכרוב</td></tr>
+        <tr><td>מצודת שפילברק</td><td>מצודה על הגבעה מעל העיר: קזמטות, מגדל תצפית ומתחם פתוח מהבוקר עד הלילה. עלייה, אבל שווה.</td><td class="dur">כ-15 דק' הליכה משוק הכרוב, בעלייה</td></tr>
+        <tr><td>מנדליאנום</td><td>מוזיאון גנטיקה קטן, שתי דקות מהשוק. מחזיק את בן ה-14; לצעיר יידרש קצב מהיר.</td><td class="dur">כ-2 דק' הליכה משוק הכרוב</td></tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-eat"><b>לאכול באזור.</b> כל אלה במרחק הליכה ממה שמתוכנן היום:</p>
+    <div class="scroll">
+    <table class="opt t-eat">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>נמסקאר</td><td>הודי צמחוני וטבעוני שלוש דקות מהשוק - קארי, דאל ופאלאק פאניר. פתוח כל יום עד <span class="lat">22:00</span>.</td><td class="dur">כ-3 דק' הליכה משוק הכרוב</td></tr>
+        <tr><td>סקוג אורבן האב</td><td>בית קפה וקלייה עם תפריט צמחוני ועוגה טבעונית. בראנץ' מהבוקר, ופתוח עד מאוחר בלילה.</td><td class="dur">כ-4 דק' הליכה משוק הכרוב</td></tr>
+        <tr><td>לוקאל או צאיפלה</td><td>בית אוכל צ'כי עם שניצל עוף, שניצל גבינה וביצים בתפוחי אדמה. פתוח עד חצות.</td><td class="dur">כ-7 דק' הליכה משוק הכרוב</td></tr>
+      </tbody>
+    </table>
+    </div>
+  </section>
+
+  <p class="sheetfoot">
+    <span>עמוד 1 מתוך 12 · יום 1</span>
+    <span><span class="w">▲</span> = פריט שלא אומת ממקור ראשוני · המסמך הופק אוטומטית — אף מקום לא בוקר פיזית ואף מספר לא אומת מחדש ביום הקריאה</span>
+  </p>
+</section>
+
+<section class="sheet" id="sheet-2">
+
+  <section class="day">
+    <h2><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-fort"/></svg>יום 2 · שבת <span class="lat">12/09</span></h2>
+    <p class="meta"><b>הדגש היום:</b> ברנו</p>
+    <div class="scroll">
+    <table class="t-plan">
+      <thead><tr><th style="width:25%">מה ואיפה</th><th style="width:62%">מה זה בפועל</th><th style="width:13%">כמה זמן</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>וילה טוגנדהאט · <span class="lat">Vila Tugendhat</span></td>
+          <td>בית מודרניסטי של מיס ואן דר רואה, אתר אונסק&quot;ו. הכניסה פנימה רק בסיור מודרך של 60 דקות ועם כרטיס שנרכש מראש באינטרנט, עד 16 איש בקבוצה, והכרטיס אינו ניתן לביטול.</td>
+          <td class="dur">ג'-א' <span class="lat">10:00-18:00</span>, כניסה אחרונה <span class="lat">17:30</span> · שעה וחצי</td>
+        </tr>
+        <tr>
+          <td>וילה לב-בר · <span class="lat">Vila Löw-Beer</span></td>
+          <td>וילה שכנה לטוגנדהאט, עם תערוכת קבע על יהודי מורביה והדרכה קצרה של רבע שעה בכל שעה עגולה. הגן והגלריה חינם, והמעבר לגן טוגנדהאט פתוח בלי תשלום.</td>
+          <td class="dur">ג'-א' <span class="lat">10:00-18:00</span>, הגן עד <span class="lat">20:00</span> · שעה</td>
+        </tr>
+        <tr>
+          <td>מוזיאון מנדל · <span class="lat">Mendelovo muzeum</span></td>
+          <td>המוזיאון של גרגור מנדל במנזר של ברנו העתיקה, במתחם שבו עבד. תצוגה קטנה וממוקדת, והכניסה חינם עד גיל 6.</td>
+          <td class="dur">ג'-א' <span class="lat">9:00-18:00</span> · שעה</td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-near"><b>אם נשאר זמן, או שמשהו לא הסתדר.</b> עוד באותו אזור, בלי לשנות את שאר היום:</p>
+    <div class="scroll">
+    <table class="opt t-near">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>פארק לוז'אנקי</td><td>אחד הפארקים העירוניים העתיקים במרכז אירופה. כניסה חופשית, ופביליון מסעדה במרכזו.</td><td class="dur">כ-8 דק' הליכה מוילה לב-בר</td></tr>
+        <tr><td>מצודת שפילברק</td><td>המצודה שמעל העיר - קזמטות, מגדל תצפית ומדשאות. המתחם עצמו פתוח מ-<span class="lat">6:00</span> עד <span class="lat">22:00</span>.</td><td class="dur">כ-9 דק' הליכה ממוזיאון מנדל</td></tr>
+        <tr><td>מנדליאנום</td><td>המשך ישיר למוזיאון מנדל: תצוגת גנטיקה נפרדת. שבת <span class="lat">10:00-17:00</span>, ואפשר גם עם מדריך.</td><td class="dur">כ-18 דק' הליכה ממוזיאון מנדל</td></tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-eat"><b>לאכול באזור.</b> כל אלה במרחק הליכה ממה שמתוכנן היום:</p>
+    <div class="scroll">
+    <table class="opt t-eat">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>נמסקאר</td><td>הודי צמחוני וטבעוני - קארי, דאל ופאלאק פאניר. פתוח כל יום <span class="lat">11:00-22:00</span>, גם בשבת.</td><td class="dur">כ-17 דק' הליכה ממוזיאון מנדל</td></tr>
+        <tr><td>סקוג אורבן האב</td><td>קפה, קלייה ובר עם תפריט צמחוני ועוגה טבעונית. בשבת פתוח מ-<span class="lat">10:00</span> ועד השעות הקטנות.</td><td class="dur">כ-18 דק' הליכה ממוזיאון מנדל</td></tr>
+        <tr><td>פיבניצה פגאס</td><td>מיקרו-מבשלה במרכז ההיסטורי, מטבח מורבי עם שניצל עוף ושניצל גבינה. שבת <span class="lat">11:00-24:00</span>.</td><td class="dur">כ-19 דק' הליכה ממוזיאון מנדל</td></tr>
+      </tbody>
+    </table>
+    </div>
+  </section>
+
+  <section class="day">
+    <h2><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-cow"/></svg>יום 3 · ראשון <span class="lat">13/09</span></h2>
+    <p class="meta"><b>הדגש היום:</b> פראג</p>
+    <div class="scroll">
+    <table class="t-plan">
+      <thead><tr><th style="width:25%">מה ואיפה</th><th style="width:62%">מה זה בפועל</th><th style="width:13%">כמה זמן</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>פסטיבל היין בכרם סנטה קלרה · <span class="lat">Vinobraní, Botanická zahrada hl. m. Prahy</span></td>
+          <td>פסטיבל יין בכרם שבתוך הגן הבוטני בטרויה, בצפון העיר. היום השני שלו הוא יום הנחיתה בפראג, והשעות והמחיר <span class="w">▲</span>.</td>
+          <td class="dur"><span class="lat">12-13/09</span> בלבד, שעות <span class="w">▲</span> · שעתיים</td>
+        </tr>
+        <tr>
+          <td>העיר העתיקה · <span class="lat">Staré Město</span></td>
+          <td>הליבה ההיסטורית של פראג: הכיכר המרכזית, שעון האורלוי והסמטאות שמחברות בין האתרים. כל המרחקים בתוכה הם הליכה, בלי צורך בתחבורה.</td>
+          <td class="dur">פתוח תמיד · חצי יום</td>
+        </tr>
+        <tr>
+          <td>לוקאל דלוהא · <span class="lat">Lokál Dlouhá</span></td>
+          <td>בית אוכל צ'כי עממי בעיר העתיקה, כמעט 70 מטר של בר בירה אחד ו-12 מיכלים. מגישים שניצל עוף וגבינה מטוגנת, ובגלל התפוסה הגדולה כדאי להזמין מקום מראש.</td>
+          <td class="dur">ב'-ש' <span class="lat">11:00-24:00</span>, א' <span class="lat">11:00-22:00</span> · שעה וחצי</td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-near"><b>אם נשאר זמן, או שמשהו לא הסתדר.</b> עוד באותו אזור, בלי לשנות את שאר היום:</p>
+    <div class="scroll">
+    <table class="opt t-near">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>שוק האוול</td><td>שוק שפועל מאז 1232, היחיד ששרד בעיר העתיקה. דוכנים קטנים, פתוח כל שבעת ימי השבוע.</td><td class="dur">כ-4 דק' הליכה מהעיר העתיקה</td></tr>
+        <tr><td>בית העירייה העתיקה והאורלוי</td><td>מעלית עד גלריית התצפית — הנוף הנוח בעיר. סביב האורלוי בכיכר יש קהל גדול בכל שעה עגולה.</td><td class="dur">כ-3 דק' הליכה מהעיר העתיקה</td></tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-eat"><b>לאכול באזור.</b> כל אלה במרחק הליכה ממה שמתוכנן היום:</p>
+    <div class="scroll">
+    <table class="opt t-eat">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>מייטריאה</td><td>צמחוני וטבעוני, בופה בתשלום לפי משקל שמתחלף כל יום. בין <span class="lat">16:00</span> ל-<span class="lat">17:30</span> התפריט מצומצם.</td><td class="dur">כ-6 דק' הליכה מלוקאל דלוהא</td></tr>
+        <tr><td>דוסה דוסה</td><td>הודי דרומי טבעוני וללא גלוטן. נפתח ב-<span class="lat">8:15</span>, כך שאפשר גם ארוחת בוקר לפני היציאה לטירה.</td><td class="dur">כ-18 דק' הליכה מהעיר העתיקה</td></tr>
+      </tbody>
+    </table>
+    </div>
+  </section>
+
+  <p class="sheetfoot">
+    <span>עמוד 2 מתוך 12 · ימים 2–3</span>
+    <span><span class="w">▲</span> = פריט שלא אומת ממקור ראשוני · המסמך הופק אוטומטית — אף מקום לא בוקר פיזית ואף מספר לא אומת מחדש ביום הקריאה</span>
+  </p>
+</section>
+
+<section class="sheet" id="sheet-3">
+
+  <section class="day">
+    <h2><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-fort"/></svg>יום 4 · שני <span class="lat">14/09</span></h2>
+    <p class="meta"><b>הדגש היום:</b> פראג</p>
+    <div class="scroll">
+    <table class="t-plan">
+      <thead><tr><th style="width:25%">מה ואיפה</th><th style="width:62%">מה זה בפועל</th><th style="width:13%">כמה זמן</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>המוזיאון הלאומי · <span class="lat">Národní muzeum</span></td>
+          <td>המוזיאון הלאומי, יושב ישירות מעל תחנת מטרו ויש בו מעליות. פתוח גם בחג הלאומי של 28 בספטמבר, בשונה מרוב המוזיאונים בעיר.</td>
+          <td class="dur">כל יום <span class="lat">10:00-18:00</span> · שעתיים-שלוש</td>
+        </tr>
+        <tr>
+          <td>פארק סטרומובקה · <span class="lat">Královská obora - Stromovka</span></td>
+          <td>הפארק הגדול בפראג, 95 הקטר של שבילים רחבים ומישוריים, ארבע בריכות, מגרשי משחקים ופלנטריום בתוכו. הכניסה חופשית ואין שעות סגירה.</td>
+          <td class="dur">פתוח תמיד · שעתיים עד חצי יום</td>
+        </tr>
+        <tr>
+          <td>קאנטרי לייף מלנטריכובה · <span class="lat">Country Life Melantrichova</span></td>
+          <td>מסעדה צמחונית עם חנות טבע ובית קפה באותו מבנה, בלב העיר העתיקה. השעות <span class="w">▲</span>.</td>
+          <td class="dur">שעות <span class="w">▲</span> · שעה</td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-near"><b>אם נשאר זמן, או שמשהו לא הסתדר.</b> עוד באותו אזור, בלי לשנות את שאר היום:</p>
+    <div class="scroll">
+    <table class="opt t-near">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>שוק האוול</td><td>שוק שפועל מאז 1232, היחיד ששרד בעיר העתיקה. דוכנים קטנים, פתוח כל שבעת ימי השבוע.</td><td class="dur">כ-2 דק' הליכה מקאנטרי לייף</td></tr>
+        <tr><td>בית העירייה העתיקה והאורלוי</td><td>מעלית עד גלריית התצפית — הנוף הנוח בעיר. סביב האורלוי בכיכר יש קהל גדול בכל שעה עגולה.</td><td class="dur">כ-2 דק' הליכה מקאנטרי לייף</td></tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-eat"><b>לאכול באזור.</b> כל אלה במרחק הליכה ממה שמתוכנן היום:</p>
+    <div class="scroll">
+    <table class="opt t-eat">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>מייטריאה</td><td>צמחוני וטבעוני, בופה בתשלום לפי משקל שמתחלף כל יום. בין <span class="lat">16:00</span> ל-<span class="lat">17:30</span> התפריט מצומצם.</td><td class="dur">כ-6 דק' הליכה מקאנטרי לייף</td></tr>
+        <tr><td>קפה סבוי</td><td>בית קפה וינאי מהמאה ה-19 עם תקרה משוחזרת. מאפים ובראנץ' ביום, ויש חלון טייק-אווי לרחוב.</td><td class="dur">כ-19 דק' הליכה מקאנטרי לייף</td></tr>
+      </tbody>
+    </table>
+    </div>
+  </section>
+
+  <section class="day">
+    <h2><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-market"/></svg>יום 5 · שלישי <span class="lat">15/09</span></h2>
+    <p class="meta"><b>הדגש היום:</b> פראג</p>
+    <div class="scroll">
+    <table class="t-plan">
+      <thead><tr><th style="width:25%">מה ואיפה</th><th style="width:62%">מה זה בפועל</th><th style="width:13%">כמה זמן</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>קוטנה הורה · <span class="lat">Kutná Hora</span></td>
+          <td>עיירת כרייה מימי הביניים ואתר אונסק&quot;ו, רכבת ישירה של כ-55 דקות מפראג. התחנה הראשית רחוקה כ-4 ק&quot;מ מהעיר העתיקה, וממנה ממשיכים ברכבת מקומית או באוטובוס.</td>
+          <td class="dur">פתוח תמיד · יום שלם</td>
+        </tr>
+        <tr>
+          <td>קתדרלת סנטה ברברה · <span class="lat">Chrám svaté Barbory</span></td>
+          <td>קתדרלה גותית בת חמישה ספינות, שנבנתה במשך 517 שנה. ביקור עצמאי עם אודיו-גייד, וסיור מודרך או סיור בגלריית הגג נדרשים בהזמנה של שבועיים מראש לפחות.</td>
+          <td class="dur">שעות ספטמבר <span class="w">▲</span> · שעה וחצי</td>
+        </tr>
+        <tr>
+          <td>גרנד קפה אוריינט · <span class="lat">Grand Café Orient</span></td>
+          <td>בית הקפה הקוביסטי היחיד בעולם, בקומה השנייה של בית הגבירה השחורה ומשוחזר לפי התכנון המקורי. באותו בניין יושב גם סניף של מוזיאון העיצוב.</td>
+          <td class="dur">שעות <span class="w">▲</span> · שעה</td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-near"><b>אם נשאר זמן, או שמשהו לא הסתדר.</b> עוד באותו אזור, בלי לשנות את שאר היום:</p>
+    <div class="scroll">
+    <table class="opt t-near">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>מוזיאון הקומוניזם</td><td>תעמולה, שחזור חדר חקירות וצילומים ממהפכת הקטיפה. עובד טוב לבן 14, פחות לבן <span class="lat">6.5</span>.</td><td class="dur">כ-6 דק' הליכה מגרנד קפה אוריינט</td></tr>
+        <tr><td>רחוב פריז</td><td>שדרת בוטיקים בין כיכר העיר העתיקה לגשר צ׳ך. נעים לחצות ברגל, אבל אין בה עצירה של ממש.</td><td class="dur">כ-10 דק' הליכה מגרנד קפה אוריינט</td></tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-eat"><b>לאכול באזור.</b> כל אלה במרחק הליכה ממה שמתוכנן היום:</p>
+    <div class="scroll">
+    <table class="opt t-eat">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>ויגנ'ס פראג</td><td>מסעדה טבעונית מחוץ למרכז ההליכה של היום. השעות והתפריט <span class="w">▲</span>, ואין בטווח חלופה טבעונית אחרת.</td><td class="dur">כ-2 ק&quot;מ מגרנד קפה אוריינט</td></tr>
+        <tr><td>סטז'כה</td><td>טבעוני, ומיזם חברתי שמעסיק אנשים ללא בית. השעות <span class="w">▲</span>, ולכן זו בחירה שנייה ולא ראשונה.</td><td class="dur"><span class="w">▲</span> בעיר החדשה</td></tr>
+      </tbody>
+    </table>
+    </div>
+  </section>
+
+  <p class="sheetfoot">
+    <span>עמוד 3 מתוך 12 · ימים 4–5</span>
+    <span><span class="w">▲</span> = פריט שלא אומת ממקור ראשוני · המסמך הופק אוטומטית — אף מקום לא בוקר פיזית ואף מספר לא אומת מחדש ביום הקריאה</span>
+  </p>
+</section>
+
+<section class="sheet" id="sheet-4">
+
+  <section class="day">
+    <h2><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-fort"/></svg>יום 6 · רביעי <span class="lat">16/09</span></h2>
+    <p class="meta"><b>הדגש היום:</b> פראג</p>
+    <div class="scroll">
+    <table class="t-plan">
+      <thead><tr><th style="width:25%">מה ואיפה</th><th style="width:62%">מה זה בפועל</th><th style="width:13%">כמה זמן</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>המוזיאון הטכני הלאומי · <span class="lat">Národní technické muzeum</span></td>
+          <td>אולם תחבורה עם מטוסים וקטרים תלויים מהתקרה, ומכרה מדומה שיורדים אליו. סגור בכל יום שני, והכניסה האחרונה <span class="lat">17:30</span>.</td>
+          <td class="dur">ג'-א' <span class="lat">9:00-18:00</span>, כניסה אחרונה <span class="lat">17:30</span> · שלוש שעות</td>
+        </tr>
+        <tr>
+          <td>פארק לטנה · <span class="lat">Letenské sady</span></td>
+          <td>מרפסת ירוקה מעל הנהר: תצפית חינם על הגשרים, המטרונום הענק בן 25 המטרים, קרוסלה היסטורית עם סוסי עץ מגולפים ביד, מגרשי משחקים וגן בירה.</td>
+          <td class="dur">פתוח תמיד · שעתיים</td>
+        </tr>
+        <tr>
+          <td>בלזפאב גארדן · <span class="lat">Belzepub Garden</span></td>
+          <td>פאב עם גן בשכונת ז'יז'קוב, המבורגרים טבעוניים מסויה ביתית. השעות <span class="w">▲</span>.</td>
+          <td class="dur">שעות <span class="w">▲</span> · שעה וחצי</td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-near"><b>אם נשאר זמן, או שמשהו לא הסתדר.</b> עוד באותו אזור, בלי לשנות את שאר היום:</p>
+    <div class="scroll">
+    <table class="opt t-near">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>פלנטריום פראג</td><td>כיפת <span class="lat">LED</span> עם 45 מיליון דיודות, הראשונה באירופה. סגור בימי שני, וכרטיס משפחתי <span class="lat">869 CZK</span>.</td><td class="dur">כ-14 דק' הליכה מהמוזיאון הטכני</td></tr>
+        <tr><td>רחוב פריז</td><td>שדרת בוטיקים בין כיכר העיר העתיקה לגשר צ׳ך. נעים לחצות ברגל, אבל אין בה עצירה של ממש.</td><td class="dur">כ-14 דק' הליכה מפארק לטנה</td></tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-eat"><b>לאכול באזור.</b> כל אלה במרחק הליכה ממה שמתוכנן היום:</p>
+    <div class="scroll">
+    <table class="opt t-eat">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>ויגנ'ס פראג</td><td>מסעדה טבעונית, הליכה ארוכה מהפארק. השעות והתפריט <span class="w">▲</span>, ואין בטווח חלופה טבעונית אחרת.</td><td class="dur">כ-25 דק' הליכה מפארק לטנה</td></tr>
+        <tr><td>סטז'כה</td><td>טבעוני, ומיזם חברתי שמעסיק אנשים ללא בית. השעות <span class="w">▲</span>, ולכן זו בחירה שנייה ולא ראשונה.</td><td class="dur"><span class="w">▲</span> בעיר החדשה</td></tr>
+      </tbody>
+    </table>
+    </div>
+  </section>
+
+  <section class="day">
+    <h2><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-peaks"/></svg>יום 7 · חמישי <span class="lat">17/09</span></h2>
+    <p class="meta"><b>הדגש היום:</b> פראג</p>
+    <div class="scroll">
+    <table class="t-plan">
+      <thead><tr><th style="width:25%">מה ואיפה</th><th style="width:62%">מה זה בפועל</th><th style="width:13%">כמה זמן</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>גן החיות של פראג · <span class="lat">Zoologická zahrada hl. m. Prahy</span></td>
+          <td>גן חיות גדול על מדרון בטרויה, ופתוח כל השבוע כולל שני. מגיעים באוטובוס 112 מתחנת המטרו הולשוביצה או במעבורת, והכרטיס באינטרנט זול ממחיר הקופה.</td>
+          <td class="dur">ספטמבר, כל יום <span class="lat">9:00-18:00</span> · חצי יום</td>
+        </tr>
+        <tr>
+          <td>הגן הבוטני בטרויה · <span class="lat">Botanická zahrada hl. m. Prahy</span></td>
+          <td>גן בוטני של 25 הקטר צמוד לגן החיות, עם גן יפני וכרם. השטח הפתוח פתוח כל יום, וחממת פאטה מורגנה הטרופית סגורה בימי שני. המחיר <span class="w">▲</span>.</td>
+          <td class="dur">כל יום; החממה סגורה בשני · שעתיים</td>
+        </tr>
+        <tr>
+          <td>אחו צ'כי מלבני <span class="lat">LEGO</span> · <span class="lat">LEGO Czech Meadow, Fata Morgana, Botanická zahrada</span></td>
+          <td>אחו צ'כי שבנוי כולו מלבני <span class="lat">LEGO</span>, בתוך החממה הטרופית של הגן הבוטני. הכניסה כלולה בכרטיס החממה, וארבעת ימי התערוכה נופלים בתוך הימים בפראג.</td>
+          <td class="dur"><span class="lat">17-20/09</span> בלבד, <span class="lat">10:00-18:00</span> · שעה</td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-near"><b>אם נשאר זמן, או שמשהו לא הסתדר.</b> עוד באותו אזור, בלי לשנות את שאר היום:</p>
+    <div class="scroll">
+    <table class="opt t-near">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>פלנטריום פראג</td><td>כיפת <span class="lat">LED</span> עם 45 מיליון דיודות, הראשונה באירופה. יושב בתוך סטרומובקה, וסגור בימי שני.</td><td class="dur">כ-<span class="lat">2.4</span> ק&quot;מ מהגן הבוטני בטרויה</td></tr>
+        <tr><td>קרוס קלאב</td><td>פסל תלת-קומתי ממתכת מרותכת וחלקי מכונות, שהוא גם מועדון. בשעות היום הכניסה חינם.</td><td class="dur">כ-<span class="lat">2.7</span> ק&quot;מ מהגן הבוטני, בהולשוביצה</td></tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-eat"><b>לאכול באזור.</b> כל אלה במרחק הליכה ממה שמתוכנן היום:</p>
+    <div class="scroll">
+    <table class="opt t-eat">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>או מילו</td><td>חלבי וצמחוני — סלטים, פסטות, מנות דגים ופיצות. פתוח יומיום מ-<span class="lat">8:30</span> ועד <span class="lat">22:00</span>.</td><td class="dur"><span class="w">▲</span> ברובע היהודי</td></tr>
+        <tr><td>מייטריאה</td><td>צמחוני וטבעוני, בופה בתשלום לפי משקל שמתחלף כל יום. חזרה למרכז, לא ליד גן החיות.</td><td class="dur">כ-<span class="lat">4.1</span> ק&quot;מ מהגן הבוטני בטרויה</td></tr>
+      </tbody>
+    </table>
+    </div>
+  </section>
+
+  <p class="sheetfoot">
+    <span>עמוד 4 מתוך 12 · ימים 6–7</span>
+    <span><span class="w">▲</span> = פריט שלא אומת ממקור ראשוני · המסמך הופק אוטומטית — אף מקום לא בוקר פיזית ואף מספר לא אומת מחדש ביום הקריאה</span>
+  </p>
+</section>
+
+<section class="sheet" id="sheet-5">
+
+  <section class="day">
+    <h2><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-fort"/></svg>יום 8 · שישי <span class="lat">18/09</span></h2>
+    <p class="meta"><b>הדגש היום:</b> פראג</p>
+    <div class="scroll">
+    <table class="t-plan">
+      <thead><tr><th style="width:25%">מה ואיפה</th><th style="width:62%">מה זה בפועל</th><th style="width:13%">כמה זמן</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>מוזיאון האמנויות השימושיות · <span class="lat">Uměleckoprůmyslové museum v Praze</span></td>
+          <td>מוזיאון העיצוב והאמנות השימושית של פראג: זכוכית, רהיטים, אופנה וכריכות ספרים. סגור בכל יום שני, וביום שלישי פתוח עד <span class="lat">20:00</span>.</td>
+          <td class="dur">ג' <span class="lat">10:00-20:00</span>, ד'-א' <span class="lat">10:00-18:00</span> · שעתיים</td>
+        </tr>
+        <tr>
+          <td>קונסטהאלה פראג · <span class="lat">Kunsthalle Praha</span></td>
+          <td>גלריה לאמנות עכשווית בקלארוב, מתחת לטירה. בחלון הביקור רצה בה התערוכה <span class="lat">Memory of Touch</span>. השעות, יום הסגירה והמחיר <span class="w">▲</span>.</td>
+          <td class="dur">שעות <span class="w">▲</span> · שעה וחצי</td>
+        </tr>
+        <tr>
+          <td>קפה לובר · <span class="lat">Café Louvre</span></td>
+          <td>בית קפה גרנד היסטורי בעיר החדשה: קפה וינאי, תפריט מסורתי, קינוחים תוצרת בית ותה של חמש. באולם הביליארד התעריף בשעות הבוקר מוזל, וזה מה שיחזיק את מי שבן 14.</td>
+          <td class="dur">ב'-ו' <span class="lat">8:00-23:30</span>, ש'-א' <span class="lat">9:00-23:30</span> · שעה</td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-near"><b>אם נשאר זמן, או שמשהו לא הסתדר.</b> עוד באותו אזור, בלי לשנות את שאר היום:</p>
+    <div class="scroll">
+    <table class="opt t-near">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>גשר קארל</td><td>515 מטר, 16 קשתות ו-30 פסלים. יפה במיוחד בלילה באור פנסי הגז, וגם ריק יותר אז.</td><td class="dur">כ-11 דק' הליכה מקונסטהאלה פראג</td></tr>
+        <tr><td>טירת פראג</td><td>המתחם פתוח מ-<span class="lat">6:00</span> עד <span class="lat">22:00</span>, הבניינים רק עד <span class="lat">17:00</span>. הכרטיס המשפחתי תקף יומיים.</td><td class="dur">כ-12 דק' הליכה מקונסטהאלה פראג</td></tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-eat"><b>לאכול באזור.</b> כל אלה במרחק הליכה ממה שמתוכנן היום:</p>
+    <div class="scroll">
+    <table class="opt t-eat">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>או מילו</td><td>חלבי וצמחוני — סלטים, פסטות, מנות דגים ופיצות. בשישי <span class="lat">8:30</span> עד <span class="lat">15:00</span>, כולל ארוחת בוקר.</td><td class="dur"><span class="w">▲</span> ברובע היהודי</td></tr>
+        <tr><td>מייטריאה</td><td>צמחוני וטבעוני, בופה בתשלום לפי משקל. בשישי פתוח עד <span class="lat">23:00</span>, ובין <span class="lat">16:00</span> ל-<span class="lat">17:30</span> התפריט מצומצם.</td><td class="dur">כ-13 דק' הליכה מקפה לובר</td></tr>
+      </tbody>
+    </table>
+    </div>
+  </section>
+
+  <section class="day">
+    <h2><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-cow"/></svg>יום 9 · שבת <span class="lat">19/09</span></h2>
+    <p class="meta"><b>הדגש היום:</b> פראג</p>
+    <div class="scroll">
+    <table class="t-plan">
+      <thead><tr><th style="width:25%">מה ואיפה</th><th style="width:62%">מה זה בפועל</th><th style="width:13%">כמה זמן</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>שוק האיכרים בנאפלבקה · <span class="lat">Farmářské trhy Náplavka</span></td>
+          <td>שוק איכרים של יותר מ-90 דוכנים על טיילת הנהר בעיר החדשה. פועל בשבתות בלבד ונסגר כבר ב-<span class="lat">14:00</span>.</td>
+          <td class="dur">שבת <span class="lat">8:00-14:00</span> · שעה וחצי</td>
+        </tr>
+        <tr>
+          <td><span class="lat">Zažít město jinak</span> · <span class="lat">Zažít město jinak</span></td>
+          <td>חגיגות שכונתיות שבהן רחובות נסגרים לתנועה ומתמלאים במוזיקה, אוכל וסדנאות לילדים, ביותר מ-160 מקומות ברחבי צ'כיה. הכניסה חינם, ורשימת הרחובות בפראג <span class="w">▲</span>.</td>
+          <td class="dur">שבת <span class="lat">19/09</span> בלבד · שעתיים-שלוש</td>
+        </tr>
+        <tr>
+          <td>פסטיבל הבציר בגרבובקה · <span class="lat">Vinobraní na Grébovce</span></td>
+          <td>פסטיבל בציר בכרם העירוני: יום שישי בכיכר השכונתית של ויוהרדי, יום שבת בגן הכרם שמעליה.</td>
+          <td class="dur"><span class="lat">18–19/09</span> · שבת הוא היום השני · אחר צהריים</td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-near"><b>אם נשאר זמן, או שמשהו לא הסתדר.</b> עוד באותו אזור, בלי לשנות את שאר היום:</p>
+    <div class="scroll">
+    <table class="opt t-near">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>וישהרד</td><td>מישור מבוצר מעל גדת הנהר, ומטרו <span class="lat">C</span> עולה ישר למעלה. השעות והמחירים <span class="w">▲</span>.</td><td class="dur">מטרו <span class="lat">C</span> ישר למישור העליון</td></tr>
+        <tr><td>גשר קארל</td><td>515 מטר, 16 קשתות ו-30 פסלים. יפה במיוחד בלילה באור פנסי הגז, וגם ריק יותר אז.</td><td class="dur"><span class="w">▲</span></td></tr>
+        <tr><td>מנזר סטרהוב</td><td>אולם הספרייה נצפה מאזורים מסומנים בלבד, בלי כניסה פנימה. פתוח <span class="lat">9:00</span> עד <span class="lat">17:00</span>.</td><td class="dur"><span class="w">▲</span></td></tr>
+        <tr><td>טירת פראג</td><td>המתחם פתוח עד <span class="lat">22:00</span>, אבל הבניינים נסגרים ב-<span class="lat">17:00</span>. בשבת זה גם היום העמוס ביותר.</td><td class="dur"><span class="w">▲</span></td></tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-eat"><b>לאכול באזור.</b> כל אלה במרחק הליכה ממה שמתוכנן היום:</p>
+    <div class="scroll">
+    <table class="opt t-eat">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>שלנו פיצריה</td><td>חלבי ופרווה — פיצה, פלאפל וכריכים, והטרדלניק הכשר היחיד בעיר. פתוח יומיום מ-<span class="lat">8:45</span>.</td><td class="dur"><span class="w">▲</span> ברובע היהודי</td></tr>
+        <tr><td>לינ'ס ויגן קורנר</td><td>פינה טבעונית בהשראה אסייתית, בוויונוהרדי. השעות <span class="w">▲</span>, אז עדיף להגיע בשעת ארוחה רגילה.</td><td class="dur"><span class="w">▲</span> בוויונוהרדי</td></tr>
+        <tr><td>פאלו ורדה ביסטרו</td><td>ביסטרו טבעוני בעיר החדשה, חזק בארוחת בוקר. השעות <span class="w">▲</span>, ולכן זו בחירה אחרונה ולא ראשונה.</td><td class="dur"><span class="w">▲</span> בעיר החדשה</td></tr>
+      </tbody>
+    </table>
+    </div>
+  </section>
+
+  <p class="sheetfoot">
+    <span>עמוד 5 מתוך 12 · ימים 8–9</span>
+    <span><span class="w">▲</span> = פריט שלא אומת ממקור ראשוני · המסמך הופק אוטומטית — אף מקום לא בוקר פיזית ואף מספר לא אומת מחדש ביום הקריאה</span>
+  </p>
+</section>
+
+<section class="sheet" id="sheet-6">
+
+  <section class="day">
+    <h2><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-market"/></svg>יום 10 · ראשון <span class="lat">20/09</span></h2>
+    <p class="meta"><b>הדגש היום:</b> פראג</p>
+    <div class="scroll">
+    <table class="t-plan">
+      <thead><tr><th style="width:25%">מה ואיפה</th><th style="width:62%">מה זה בפועל</th><th style="width:13%">כמה זמן</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>דצ'ין · <span class="lat">Děčín</span></td>
+          <td>שער הכניסה לבוהמיה השווייצרית. רכבת מפראג בכשעה וחצי, בכל שעה, ומשם אוטובוס 434 אל הפארק. בכל האוטובוסים והרכבות באזור משלמים בכרטיס אשראי ללא מגע.</td>
+          <td class="dur">פתוח תמיד · יום שלם</td>
+        </tr>
+        <tr>
+          <td>ערוץ אדמונד · <span class="lat">Edmundova soutěska</span></td>
+          <td>שיט בסירה בערוץ סלעי צר בליווי שני מדריכים. הכרטיסים נמכרים רק בכניסה ובלי הזמנה מראש, היציאות בכל שעה עגולה בקבוצה של 20 עד 25 איש, והאחרונה יוצאת ב-<span class="lat">17:00</span>.</td>
+          <td class="dur"><span class="lat">10:00-17:00</span>, יציאה בשעה עגולה · שעתיים</td>
+        </tr>
+        <tr>
+          <td>פראבצ'יצקה ברנה · <span class="lat">Pravčická brána</span></td>
+          <td>שער הסלע הטבעי הגדול באירופה, סמל הפארק הלאומי, ולצדו טירת קן הבז. הגישה היא טיפוס של כ-30 דקות בשביל תלול — מי שבן 14 יעמוד בזה, מי שבגיל <span class="lat">6.5</span> יתקשה.</td>
+          <td class="dur">כל יום <span class="lat">10:00-18:00</span> · שעתיים-שלוש עם הטיפוס</td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-near"><b>אם נשאר זמן, או שמשהו לא הסתדר.</b> עוד באותו אזור, בלי לשנות את שאר היום:</p>
+    <div class="scroll">
+    <table class="opt t-near">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>הערוץ הפראי</td><td>שיט קצר בערוץ, והסירה מחזירה לנקודת המוצא. מבוגר <span class="lat">200 CZK</span>, ילד מגיל 3 100. מזומן או כרטיס.</td><td class="dur">אוטובוס 438, 435 או 441 מערוץ אדמונד</td></tr>
+        <tr><td>הז'נסקו</td><td>כפר השער לפארק הלאומי, על גדת האלבה. המוצא לשני הערוצים, ומעבורת חוצה לצד הגרמני.</td><td class="dur">כ-3 ק&quot;מ מפראבצ'יצקה ברנה</td></tr>
+        <tr><td>אנדרטת טרזין</td><td>המבצר הקטן ומוזיאון הגטו הם שני אתרים נפרדים. ביקור מלא שלוש עד ארבע שעות, כרטיסים בקופה.</td><td class="dur">כ-30 ק&quot;מ מדצ'ין, ואוטובוס ישיר מפראג</td></tr>
+        <tr><td>שביל גבריאלה</td><td>שביל בפארק הלאומי, סגור כרגע בלי מועד פתיחה. החלופה היא נתיב הגישה השני מהכפר.</td><td class="dur">כ-2 ק&quot;מ מערוץ אדמונד</td></tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-eat"><b>לאכול באזור.</b> כל אלה במרחק הליכה ממה שמתוכנן היום:</p>
+    <div class="scroll">
+    <table class="opt t-eat">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>שלנו פיצריה</td><td>חלבי ופרווה — פיצה, פלאפל וכריכים, והטרדלניק הכשר היחיד בעיר. פתוח עד <span class="lat">22:00</span>, טוב לערב חזרה.</td><td class="dur"><span class="w">▲</span> בפראג, ברובע היהודי</td></tr>
+        <tr><td>לינ'ס ויגן קורנר</td><td>פינה טבעונית בהשראה אסייתית, בוויונוהרדי. השעות <span class="w">▲</span>, אז עדיף להגיע בשעת ארוחה רגילה.</td><td class="dur"><span class="w">▲</span> בפראג, בוויונוהרדי</td></tr>
+        <tr><td>פאלו ורדה ביסטרו</td><td>ביסטרו טבעוני חזק בארוחת בוקר. אחרי יום בצפון תחזרו מאוחר, ולכן זו בחירה אחרונה.</td><td class="dur"><span class="w">▲</span> בפראג, בעיר החדשה</td></tr>
+      </tbody>
+    </table>
+    </div>
+  </section>
+
+  <section class="day">
+    <h2><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-peaks"/></svg>יום 11 · שני <span class="lat">21/09</span></h2>
+    <p class="meta"><b>הדגש היום:</b> פראג</p>
+    <div class="scroll">
+    <table class="t-plan">
+      <thead><tr><th style="width:25%">מה ואיפה</th><th style="width:62%">מה זה בפועל</th><th style="width:13%">כמה זמן</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>מבוך המראות בפטז'ין · <span class="lat">Zrcadlové bludiště na Petříně</span></td>
+          <td>מסדרונות מראות, אולם מראות מעוותות ודיורמה של קרב גשר קארל. פתוח גם בימי שני, בשעה הראשונה של היום הכניסה בחצי מחיר, ומגיעים בטראם 12, 20 או 22.</td>
+          <td class="dur">ספטמבר, כל יום <span class="lat">9:00-18:00</span> · שעה</td>
+        </tr>
+        <tr>
+          <td>מגדל פטז׳ין · <span class="lat">Petřínská rozhledna</span></td>
+          <td>מגדל תצפית בראש גבעת פטז'ין, עלייה במדרגות או במעלית בתוספת תשלום. הפוניקולר שמוביל אל הגבעה מושבת, ולכן מגיעים בטראם ואז בהליכה בעלייה.</td>
+          <td class="dur">ספטמבר <span class="lat">9:00-18:00</span> · שעה</td>
+        </tr>
+        <tr>
+          <td>אנרג'י פאב ריגרובי סאדי · <span class="lat">Energy Pub Riegrovy sady</span></td>
+          <td>גן הבירה הגדול בפראג, בתוך פארק בוויונוהרדי: מעל 1,500 מקומות ישיבה, 500 מהם מקורים לגשם, ערמונים בני מאה ומסך ענק לשידורי ספורט. השעות <span class="w">▲</span>.</td>
+          <td class="dur">שעות <span class="w">▲</span> · שעה וחצי</td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-near"><b>אם נשאר זמן, או שמשהו לא הסתדר.</b> עוד באותו אזור, בלי לשנות את שאר היום:</p>
+    <div class="scroll">
+    <table class="opt t-near">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>מצפה הכוכבים שטפאניק</td><td>טלסקופ מ-1928, וצפייה בשמי היום בלי לחכות לחושך. כרטיס משולב עם המבוך והמגדל. שעות <span class="w">▲</span>.</td><td class="dur">כ-5 דק' הליכה ממבוך המראות</td></tr>
+        <tr><td>רכבל פטז'ין</td><td>עולה לגבעה בשלוש דקות במקום עשרים דקות טיפוס. נסיעה בודדת <span class="lat">100 CZK</span>, והשעות <span class="w">▲</span>.</td><td class="dur">כ-3 דק' הליכה ממבוך המראות</td></tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-eat"><b>לאכול באזור.</b> כל אלה במרחק הליכה ממה שמתוכנן היום:</p>
+    <div class="scroll">
+    <table class="opt t-eat">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>דוסה דוסה</td><td>הודי דרומי טבעוני וללא גלוטן, במאלה סטרנה. בימי חול פתוח מ-<span class="lat">8:15</span> עד <span class="lat">20:00</span>.</td><td class="dur">כ-10 דק' הליכה ממבוך המראות</td></tr>
+        <tr><td>ויגנ'ס פראג</td><td>מסעדה טבעונית באותו מרחק בדיוק. השעות והתפריט <span class="w">▲</span>, ולכן היא שנייה ולא ראשונה.</td><td class="dur">כ-10 דק' הליכה ממבוך המראות</td></tr>
+      </tbody>
+    </table>
+    </div>
+  </section>
+
+  <p class="sheetfoot">
+    <span>עמוד 6 מתוך 12 · ימים 10–11</span>
+    <span><span class="w">▲</span> = פריט שלא אומת ממקור ראשוני · המסמך הופק אוטומטית — אף מקום לא בוקר פיזית ואף מספר לא אומת מחדש ביום הקריאה</span>
+  </p>
+</section>
+
+<section class="sheet" id="sheet-7">
+
+  <section class="day">
+    <h2><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-fort"/></svg>יום 12 · שלישי <span class="lat">22/09</span></h2>
+    <p class="meta"><b>הדגש היום:</b> פראג</p>
+    <div class="scroll">
+    <table class="t-plan">
+      <thead><tr><th style="width:25%">מה ואיפה</th><th style="width:62%">מה זה בפועל</th><th style="width:13%">כמה זמן</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>דוקס, מרכז לאמנות עכשווית · <span class="lat">DOX Centre for Contemporary Art</span></td>
+          <td>מרכז לאמנות עכשווית בהולשוביצה עם תערוכות מתחלפות, באותו אזור של ונטרובלוק. סגור בכל יום שני, והמחיר סביב 200 קרונות.</td>
+          <td class="dur">ג'-א' <span class="lat">11:00-19:00</span> · שעתיים</td>
+        </tr>
+        <tr>
+          <td><span class="lat">Cirk La Putyka</span> · <span class="lat">Cirk La Putyka, Jatka78</span></td>
+          <td>קרקס עכשווי צ'כי באולם הופעות בהולשוביצה. מופע גופני בלי מילים, ולכן עובד למי שבן 14 ולמי שבגיל <span class="lat">6.5</span> באותה מידה. ההצגה מתחילה ב-<span class="lat">19:30</span>, והמחיר <span class="w">▲</span>.</td>
+          <td class="dur"><span class="lat">14-22/09</span>, בערבים <span class="lat">19:30</span> · שעתיים</td>
+        </tr>
+        <tr>
+          <td>אתנוסבט · <span class="lat">Etnosvět</span></td>
+          <td>מסעדה צמחית בעיר החדשה. השעות <span class="w">▲</span>.</td>
+          <td class="dur">שעות <span class="w">▲</span> · שעה</td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-near"><b>אם נשאר זמן, או שמשהו לא הסתדר.</b> עוד באותו אזור, בלי לשנות את שאר היום:</p>
+    <div class="scroll">
+    <table class="opt t-near">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>מגדל הטלוויזיה ז׳יז׳קוב</td><td>תצפית בגובה 93 מטר, ופסלי התינוקות הזוחלים של דיוויד צ׳רני על העמודים. כ-<span class="lat">300 CZK</span>.</td><td class="dur"><span class="w">▲</span> בז׳יז׳קוב</td></tr>
+        <tr><td>וישהרד</td><td>מישור מבוצר מעל גדת הנהר, ומטרו <span class="lat">C</span> עולה ישר למעלה. השעות והמחירים <span class="w">▲</span>.</td><td class="dur">מטרו <span class="lat">C</span> ישר למישור העליון</td></tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-eat"><b>לאכול באזור.</b> כל אלה במרחק הליכה ממה שמתוכנן היום:</p>
+    <div class="scroll">
+    <table class="opt t-eat">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>שלנו פיצריה</td><td>חלבי ופרווה — פיצה, פלאפל וכריכים, והטרדלניק הכשר היחיד בעיר. פתוח יומיום מ-<span class="lat">8:45</span>.</td><td class="dur"><span class="w">▲</span> ברובע היהודי</td></tr>
+        <tr><td>או מילו</td><td>חלבי וצמחוני — סלטים, פסטות, מנות דגים ופיצות. פתוח יומיום מ-<span class="lat">8:30</span> ועד <span class="lat">22:00</span>.</td><td class="dur"><span class="w">▲</span> ברובע היהודי</td></tr>
+      </tbody>
+    </table>
+    </div>
+  </section>
+
+  <section class="day">
+    <h2><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-fort"/></svg>יום 13 · רביעי <span class="lat">23/09</span></h2>
+    <p class="meta"><b>הדגש היום:</b> פראג</p>
+    <div class="scroll">
+    <table class="t-plan">
+      <thead><tr><th style="width:25%">מה ואיפה</th><th style="width:62%">מה זה בפועל</th><th style="width:13%">כמה זמן</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>טירת קרלשטיין · <span class="lat">Hrad Karlštejn</span></td>
+          <td>טירה על גבעה מיוערת, כ-40 דקות ברכבת מפראג ואז 20 עד 25 דקות הליכה בעלייה. סיור ארמון הקיסר אורך 55 דקות. סגורה בימי שני, וגם ביום שלישי 29 בספטמבר.</td>
+          <td class="dur">ספטמבר ג'-א' <span class="lat">9:30-17:30</span> · חצי יום עם הנסיעה</td>
+        </tr>
+        <tr>
+          <td>פסטיבל דבוז'אק פראג · <span class="lat">Dvořák Prague Festival</span></td>
+          <td>פסטיבל מוזיקה קלאסית שרץ כמעט על כל ימי השהות בפראג. ב-19 בספטמבר מוצגת האופרה &quot;היעקובין&quot; של דבוז'אק ב-<span class="lat">19:00</span>, והמחירים <span class="w">▲</span>.</td>
+          <td class="dur"><span class="lat">05-23/09</span>, מופעי ערב · שעתיים-שלוש</td>
+        </tr>
+        <tr>
+          <td>קפה אימפריאל · <span class="lat">Café Imperial</span></td>
+          <td>אולם קפה מ-1914 עם אריחי קרמיקה מקוריים ותקרות פסיפס, ושף-בעלים שמוזכר במדריך מישלן. מצהיר במפורש שילדים רצויים בו, ההזמנה מומלצת והלבוש <span class="lat">smart casual</span>.</td>
+          <td class="dur">כל יום <span class="lat">7:00-23:00</span> · שעה וחצי</td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-near"><b>אם נשאר זמן, או שמשהו לא הסתדר.</b> עוד באותו אזור, בלי לשנות את שאר היום:</p>
+    <div class="scroll">
+    <table class="opt t-near">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>מוזיאון הקומוניזם</td><td>תעמולה, שחזור חדר חקירות וצילומים ממהפכת הקטיפה. עובד טוב לבן 14, פחות לבן <span class="lat">6.5</span>.</td><td class="dur">כ-5 דק' הליכה מקפה אימפריאל</td></tr>
+        <tr><td>ריגרובי סאדי</td><td>פארק בוויונוהרדי עם מסלול ריצה, אזור כושר ומדשאה שצופה על קו הרקיע. חינם ופתוח תמיד.</td><td class="dur">כ-20 דק' הליכה מקפה אימפריאל</td></tr>
+        <tr><td>נובה מסטו</td><td>העיר החדשה, שנוסדה ב-1348. כיכר ואצלב וקו הקניות המרכזי — הומה מאדם, ולכן שלישית.</td><td class="dur">כ-23 דק' הליכה מקפה אימפריאל</td></tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-eat"><b>לאכול באזור.</b> כל אלה במרחק הליכה ממה שמתוכנן היום:</p>
+    <div class="scroll">
+    <table class="opt t-eat">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>מייטריאה</td><td>צמחוני וטבעוני, בופה בתשלום לפי משקל שמתחלף כל יום. בין <span class="lat">16:00</span> ל-<span class="lat">17:30</span> התפריט מצומצם.</td><td class="dur">כ-13 דק' הליכה מקפה אימפריאל</td></tr>
+        <tr><td>קפה סבוי</td><td>בית קפה וינאי מהמאה ה-19 עם תקרה משוחזרת. רחוק יותר, אבל פתוח עד <span class="lat">22:00</span> אחרי הקונצרט.</td><td class="dur">כ-<span class="lat">2.1</span> ק&quot;מ מקפה אימפריאל</td></tr>
+      </tbody>
+    </table>
+    </div>
+  </section>
+
+  <p class="sheetfoot">
+    <span>עמוד 7 מתוך 12 · ימים 12–13</span>
+    <span><span class="w">▲</span> = פריט שלא אומת ממקור ראשוני · המסמך הופק אוטומטית — אף מקום לא בוקר פיזית ואף מספר לא אומת מחדש ביום הקריאה</span>
+  </p>
+</section>
+
+<section class="sheet" id="sheet-8">
+
+  <section class="day">
+    <h2><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-fort"/></svg>יום 14 · חמישי <span class="lat">24/09</span></h2>
+    <p class="meta"><b>הדגש היום:</b> וינה</p>
+    <div class="scroll">
+    <table class="t-plan">
+      <thead><tr><th style="width:25%">מה ואיפה</th><th style="width:62%">מה זה בפועל</th><th style="width:13%">כמה זמן</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>הרווסט · <span class="lat">Harvest</span></td>
+          <td>מסעדה טבעונית בשכונת לאופולדשטאט, על כיכר שוק שקטה. אפשר להזמין ממנה סל פיקניק טבעוני כולל שמיכה ולקחת אותו לפראטר או לאי הדנובה.</td>
+          <td class="dur">כל יום <span class="lat">14:00-22:00</span> · שעה וחצי</td>
+        </tr>
+        <tr>
+          <td>מוזיאון העולם · <span class="lat">Weltmuseum Wien</span></td>
+          <td>מוזיאון אתנוגרפיה בתוך אגף של ארמון ההופבורג, אוספים מכל היבשות. שני הילדים נכנסים חינם, והמוזיאון סגור בכל יום שני.</td>
+          <td class="dur">ג' <span class="lat">10:00-21:00</span>, ד'-א' <span class="lat">10:00-18:00</span> · שעתיים</td>
+        </tr>
+        <tr>
+          <td>מוזיאון וינה בקרלספלאץ · <span class="lat">Wien Museum Karlsplatz</span></td>
+          <td>ההיסטוריה של וינה מראשיתה ועד היום, בבניין שיושב על כיכר מעל תחנת מטרו. סגור בימי שני, ובשישי פותח כבר ב-<span class="lat">09:00</span> — מוקדם ממרבית המוזיאונים בעיר.</td>
+          <td class="dur">ג', ד', ו' <span class="lat">9:00-18:00</span>, ה' עד <span class="lat">21:00</span>, ש'-א' <span class="lat">10:00-18:00</span> · שעתיים</td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-near"><b>אם נשאר זמן, או שמשהו לא הסתדר.</b> עוד באותו אזור, בלי לשנות את שאר היום:</p>
+    <div class="scroll">
+    <table class="opt t-near">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>נאשמרקט</td><td>שוק המזון המרכזי של וינה - דוכני ירקות, גבינות ואוכל מוכן. פתוח בימות החול עד הערב.</td><td class="dur">כ-13 דק' הליכה ממוזיאון העולם</td></tr>
+        <tr><td>ורסטלפראטר</td><td>לונה פארק ותיק: הכניסה לשטח חופשית והתשלום הוא פר מתקן. מרבית המתקנים פועלים מ-<span class="lat">10:00</span>.</td><td class="dur">כ-25 דק' הליכה מהרווסט</td></tr>
+        <tr><td>הגן הבוטני של אוניברסיטת וינה</td><td>גן בוטני של האוניברסיטה, כניסה חינם וכל ימות השבוע <span class="lat">10:00-18:00</span>. מקום לשחרר אנרגיה.</td><td class="dur">כ-19 דק' הליכה ממוזיאון וינה בקרלספלאץ</td></tr>
+        <tr><td>שוק הפשפשים שליד נאשמרקט</td><td>כ-400 דוכני עתיקות, תקליטים וספרים משומשים. פועל בשבת בלבד, ולכן לא רלוונטי היום.</td><td class="dur">כ-18 דק' הליכה ממוזיאון העולם</td></tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-eat"><b>לאכול באזור.</b> כל אלה במרחק הליכה ממה שמתוכנן היום:</p>
+    <div class="scroll">
+    <table class="opt t-eat">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>סווינג קיטשן שוודנפלאץ</td><td>פאסט פוד טבעוני - המבורגרים, קערות וראפים. מהיר, זול ומתאים לשני הילדים.</td><td class="dur">כ-8 דק' הליכה מהרווסט</td></tr>
+        <tr><td>לארה</td><td>המסעדה האחות של יולה, א-לה-קארט לא רשמי. בחמישי פתוחה בבוקר וגם מ-<span class="lat">17:30</span>.</td><td class="dur">כ-14 דק' הליכה מהרווסט</td></tr>
+        <tr><td>לבנבאואר</td><td>פתוחה רק בימות החול, בשתי משמרות - צהריים עד <span class="lat">15:00</span> וערב מ-<span class="lat">17:30</span>. סגורה בסופ&quot;ש.</td><td class="dur">כ-13 דק' הליכה ממוזיאון העולם</td></tr>
+        <tr><td>שניצלווירט</td><td>בית שניצלים עם מבחר גדול, כולל שניצל עוף. פותח כבר ב-<span class="lat">10:45</span>, שלישי עד שבת.</td><td class="dur">כ-19 דק' הליכה ממוזיאון העולם</td></tr>
+      </tbody>
+    </table>
+    </div>
+  </section>
+
+  <section class="day">
+    <h2><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-fort"/></svg>יום 15 · שישי <span class="lat">25/09</span></h2>
+    <p class="meta"><b>הדגש היום:</b> וינה</p>
+    <div class="scroll">
+    <table class="t-plan">
+      <thead><tr><th style="width:25%">מה ואיפה</th><th style="width:62%">מה זה בפועל</th><th style="width:13%">כמה זמן</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>מוזיאון האמנות ההיסטורי · <span class="lat">Kunsthistorisches Museum Wien</span></td>
+          <td>אוסף האמנות של בית הבסבורג בהיכל ראווה בכיכר מריה תרזה. בימי חמישי פתוח עד <span class="lat">21:00</span>, היחיד בתיק שפתוח בערב יום ההגעה, ומתחת לגיל 19 הכניסה חינם.</td>
+          <td class="dur">כל יום <span class="lat">10:00-18:00</span>, ה' עד <span class="lat">21:00</span> · שלוש שעות</td>
+        </tr>
+        <tr>
+          <td>ורנק · <span class="lat">Wrenkh</span></td>
+          <td><span class="lat">fine dining</span> טבעוני בעיר הפנימית, תפריטים רב-מנתיים. סגור בימי ראשון.</td>
+          <td class="dur">ב'-ו' <span class="lat">11:00-23:00</span>, ש' <span class="lat">12:00-23:00</span> · שעתיים</td>
+        </tr>
+        <tr>
+          <td>מוזיאון האמנות השימושית והעיצוב · <span class="lat">MAK - Museum für angewandte Kunst</span></td>
+          <td>מוזיאון העיצוב והאמנות השימושית של וינה, בקצה שדרת הרינג, ובאותו בניין יושבת מסעדה. סגור בכל יום שני, וביום שלישי פתוח עד <span class="lat">21:00</span>.</td>
+          <td class="dur">ג' <span class="lat">10:00-21:00</span>, ד'-א' <span class="lat">10:00-18:00</span> · שעתיים</td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-near"><b>אם נשאר זמן, או שמשהו לא הסתדר.</b> עוד באותו אזור, בלי לשנות את שאר היום:</p>
+    <div class="scroll">
+    <table class="opt t-near">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>נאשמרקט</td><td>שוק המזון המרכזי של וינה. בשישי פתוח עד הערב, ומסביבו בתי קפה ודוכני אוכל מוכן.</td><td class="dur">כ-26 דק' הליכה מורנק</td></tr>
+        <tr><td>ורסטלפראטר</td><td>לונה פארק ותיק: כניסה חופשית לשטח, תשלום פר מתקן. התשובה כשהילדים גמרו עם מוזיאונים.</td><td class="dur">כ-<span class="lat">2.1</span> ק&quot;מ מורנק</td></tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-eat"><b>לאכול באזור.</b> כל אלה במרחק הליכה ממה שמתוכנן היום:</p>
+    <div class="scroll">
+    <table class="opt t-eat">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>לארה</td><td>המסעדה האחות של יולה, שבע דקות מורנק. בשישי פתוחה מ-<span class="lat">09:00</span> ושוב מ-<span class="lat">17:30</span> עד <span class="lat">23:00</span>.</td><td class="dur">כ-7 דק' הליכה מורנק</td></tr>
+        <tr><td>סווינג קיטשן שוודנפלאץ</td><td>פאסט פוד טבעוני - המבורגרים, קערות וראפים. בשישי פתוח עד <span class="lat">23:00</span>, מהיר ונוח לילדים.</td><td class="dur">כ-8 דק' הליכה מורנק</td></tr>
+      </tbody>
+    </table>
+    </div>
+  </section>
+
+  <p class="sheetfoot">
+    <span>עמוד 8 מתוך 12 · ימים 14–15</span>
+    <span><span class="w">▲</span> = פריט שלא אומת ממקור ראשוני · המסמך הופק אוטומטית — אף מקום לא בוקר פיזית ואף מספר לא אומת מחדש ביום הקריאה</span>
+  </p>
+</section>
+
+<section class="sheet" id="sheet-9">
+
+  <section class="day">
+    <h2><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-fort"/></svg>יום 16 · שבת <span class="lat">26/09</span></h2>
+    <p class="meta"><b>הדגש היום:</b> בודפשט</p>
+    <div class="scroll">
+    <table class="t-plan">
+      <thead><tr><th style="width:25%">מה ואיפה</th><th style="width:62%">מה זה בפועל</th><th style="width:13%">כמה זמן</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>בית הקפה צנטרל · <span class="lat">Centrál Kávéház</span></td>
+          <td>בית קפה ספרותי מ-1887 שנפתח מחדש אחרי שיפוץ, ארוחת בוקר שמוגשת כל היום ופפריקש עוף. עונה גם על הרצון בבית קפה היסטורי אמיתי.</td>
+          <td class="dur">ה'-ש' <span class="lat">9:00-24:00</span>, א' <span class="lat">9:00-18:00</span>; ב'-ד' <span class="w">▲</span> · שעה</td>
+        </tr>
+        <tr>
+          <td>בית הזיכרון של רות מיקשה · <span class="lat">Róth Miksa Emlékház</span></td>
+          <td>בית ויטראז' בסגנון הסצסיון ההונגרי. ב-26 בספטמבר מתקיים בו סיור מודרך בשכונה, והשעות והמחיר <span class="w">▲</span>.</td>
+          <td class="dur">סיור ב-<span class="lat">26/09</span> · שעה וחצי; שעות קבועות <span class="w">▲</span></td>
+        </tr>
+        <tr>
+          <td>בית המוזיקה ההונגרי · <span class="lat">Magyar Zene Háza</span></td>
+          <td>מוזיאון המוזיקה בפארק העיר, בבניין של האדריכל סו פוג'ימוטו. סגור בימי שני, והכניסה האחרונה לתערוכה הקבועה <span class="lat">16:15</span> — כמעט שעתיים לפני שהבניין נסגר.</td>
+          <td class="dur">ג'-א' <span class="lat">10:15-17:50</span>, ו' עד <span class="lat">19:50</span> · שעתיים</td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-near"><b>אם נשאר זמן, או שמשהו לא הסתדר.</b> עוד באותו אזור, בלי לשנות את שאר היום:</p>
+    <div class="scroll">
+    <table class="opt t-near">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>טירת ויידהוניאד</td><td>טירה מ-1896 בלב וארושליגט שמשלבת סגנונות מכל הונגריה. החצר פתוחה להולכי רגל, שעות <span class="w">▲</span>.</td><td class="dur">כ-5 דק' הליכה מבית המוזיקה ההונגרי</td></tr>
+        <tr><td>אי מרגיט</td><td>אי שלם בין שני חלקי העיר: גן יפני, מזרקה מוזיקלית, פינת חי ושבילים כמעט בלי מכוניות.</td><td class="dur">טראם 4 או 6 לתחנת גשר מרגיט</td></tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-eat"><b>לאכול באזור.</b> כל אלה במרחק הליכה ממה שמתוכנן היום:</p>
+    <div class="scroll">
+    <table class="opt t-eat">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>סבד ביסטרו</td><td>הפאב הטבעוני הראשון בבודפשט - המבורגרים, <span class="lat">dirty fries</span> ופסטה. בשבת פותח רק ב-<span class="lat">15:00</span>.</td><td class="dur">כ-14 דק' הליכה מבית הזיכרון של רות מיקשה</td></tr>
+        <tr><td>טהינה בייט</td><td>מזרח תיכוני טבעוני - פלאפל, חומוס ובאבא גנוש. פתוח כל יום <span class="lat">11:00-22:00</span>, טעם מוכר לילדים.</td><td class="dur">כ-31 דק' הליכה מבית הזיכרון של רות מיקשה</td></tr>
+      </tbody>
+    </table>
+    </div>
+  </section>
+
+  <section class="day">
+    <h2><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-fort"/></svg>יום 17 · ראשון <span class="lat">27/09</span></h2>
+    <p class="meta"><b>הדגש היום:</b> בודפשט</p>
+    <div class="scroll">
+    <table class="t-plan">
+      <thead><tr><th style="width:25%">מה ואיפה</th><th style="width:62%">מה זה בפועל</th><th style="width:13%">כמה זמן</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>הגלריה הלאומית ההונגרית · <span class="lat">Magyar Nemzeti Galéria</span></td>
+          <td>אוסף האמנות ההונגרית בתוך ארמון בודה, על הגבעה מעל הדנובה. סגורה ביום שני האחרון של כל חודש, ו-28 בספטמבר הוא בדיוק היום הזה.</td>
+          <td class="dur"><span class="lat">10:00-18:00</span>, כניסה אחרונה <span class="lat">17:00</span> · שעתיים</td>
+        </tr>
+        <tr>
+          <td>הונגריקום ביסטרו · <span class="lat">Hungarikum Bisztró</span></td>
+          <td>ביסטרו הונגרי ליד הפרלמנט: פלצ'ינטה במילוי עוף, פפריקש פטריות עם נוקדלי וירך ברווז. ההזמנה מראש חובה ואונליין בלבד, ולחשבון מתווספים 15% דמי שירות.</td>
+          <td class="dur"><span class="lat">12:00-14:30</span> ו-<span class="lat">18:00-22:00</span> · שעה וחצי</td>
+        </tr>
+        <tr>
+          <td>וילה ראט ג'רג' · <span class="lat">Ráth György-villa</span></td>
+          <td>וילת אר-נובו עם תערוכת קבע על הסצסיון ההונגרי, סניף של מוזיאון האמנות השימושית שהבניין הראשי שלו סגור. סגורה בימי שני.</td>
+          <td class="dur">ג'-א' <span class="lat">10:00-18:00</span> · שעה וחצי</td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-near"><b>אם נשאר זמן, או שמשהו לא הסתדר.</b> עוד באותו אזור, בלי לשנות את שאר היום:</p>
+    <div class="scroll">
+    <table class="opt t-near">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>הציטדלה שעל גבעת גלרט</td><td>פארק פנימי של 6,000 מ&quot;ר בכניסה חופשית, עם טרסות תצפית על העיר ומעליות נגישות.</td><td class="dur">כ-20 דק' הליכה מהגלריה הלאומית ההונגרית</td></tr>
+        <tr><td>טירת ויידהוניאד</td><td>טירה מ-1896 שמשלבת סגנונות מכל הונגריה, בלב וארושליגט. החצר פתוחה להולכי רגל, שעות <span class="w">▲</span>.</td><td class="dur">כ-16 דק' הליכה מוילה ראט ג'רג'</td></tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-eat"><b>לאכול באזור.</b> כל אלה במרחק הליכה ממה שמתוכנן היום:</p>
+    <div class="scroll">
+    <table class="opt t-eat">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>נפפייניש - מסעדה וקונדיטוריה טבעונית</td><td>טבעונית מלאה עם גרסאות לקלאסיקה ההונגרית, כולל קינוח שומלוי. פתוחה כל יום, גם בראשון.</td><td class="dur">כ-21 דק' הליכה מהגלריה הלאומית ההונגרית</td></tr>
+        <tr><td>טהינה בייט</td><td>מזרח תיכוני טבעוני - פלאפל, חומוס, באבא גנוש ומוחמרה. פתוח כל יום <span class="lat">11:00-22:00</span>.</td><td class="dur">כ-21 דק' הליכה מהונגריקום ביסטרו</td></tr>
+      </tbody>
+    </table>
+    </div>
+  </section>
+
+  <p class="sheetfoot">
+    <span>עמוד 9 מתוך 12 · ימים 16–17</span>
+    <span><span class="w">▲</span> = פריט שלא אומת ממקור ראשוני · המסמך הופק אוטומטית — אף מקום לא בוקר פיזית ואף מספר לא אומת מחדש ביום הקריאה</span>
+  </p>
+</section>
+
+<section class="sheet" id="sheet-10">
+
+  <section class="day">
+    <h2><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-cow"/></svg>יום 18 · שני <span class="lat">28/09</span></h2>
+    <p class="meta"><b>הדגש היום:</b> בודפשט</p>
+    <div class="scroll">
+    <table class="t-plan">
+      <thead><tr><th style="width:25%">מה ואיפה</th><th style="width:62%">מה זה בפועל</th><th style="width:13%">כמה זמן</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>אוקטוברפסט בודפשט - מקטע ראשון · <span class="lat">Oktoberfest Budapest</span></td>
+          <td>פסטיבל בירה בשלושה מוקדים בעיר, הכניסה חינם. המוקד שבאי מרגיט הוא גם בית קולנוע בגן, וזה החלק שעובד למשפחה.</td>
+          <td class="dur"><span class="lat">25-27/09</span>, שעות <span class="w">▲</span> · שעתיים</td>
+        </tr>
+        <tr>
+          <td>דה פלנטין · <span class="lat">The Planteen</span></td>
+          <td>קנטינה צמחית בפארק עסקים באובודה, בצפון העיר: גרסאות צמחיות למנות הונגריות מסורתיות ולתבשילי תנור. פתוחה בימי חול בלבד ונסגרת ב-<span class="lat">16:00</span>.</td>
+          <td class="dur">ב'-ו' <span class="lat">8:00-16:00</span>, סגור בסופ&quot;ש · שעה</td>
+        </tr>
+        <tr>
+          <td>טירת נג'טטן - מוזיאון הרהיטים · <span class="lat">Nagytétényi Kastély</span></td>
+          <td>אוסף הרהיטים של מוזיאון האמנות השימושית, בטירה בפאתי דרום העיר ורחוק ממרכזה. השעות והמחיר <span class="w">▲</span>.</td>
+          <td class="dur">שעות <span class="w">▲</span> · שעתיים כולל הנסיעה</td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-near"><b>אם נשאר זמן, או שמשהו לא הסתדר.</b> עוד באותו אזור, בלי לשנות את שאר היום:</p>
+    <div class="scroll">
+    <table class="opt t-near">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>פארק ממנטו</td><td>פסלי התקופה הקומוניסטית תחת כיפת השמיים. פתוח <span class="lat">10:00-17:00</span>, וחינם עד גיל 6. עניין לבן 14.</td><td class="dur">מטרו <span class="lat">M4</span> לקלנפלד ואוטובוס <span class="lat">101B</span> - כ-9 דק'</td></tr>
+        <tr><td>פארק נורמפה</td><td>יעד ההליכה של המקומיים בהרי בודה - יער, נוף ואוויר. פתוח תמיד וללא תשלום.</td><td class="dur">אוטובוס 21 מסל קלמן טר - כ-19 דק'</td></tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-eat"><b>לאכול באזור.</b> כל אלה במרחק הליכה ממה שמתוכנן היום:</p>
+    <div class="scroll">
+    <table class="opt t-eat">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>סלנצה קפה</td><td>בית קפה משפחתי ברובע הראשון בבודה: מנות יום צמחוניות וקינוחים בלי סוכר וקמח. עד <span class="lat">16:00</span>.</td><td class="dur">כ-<span class="lat">12.4</span> ק&quot;מ מטירת נג'טטן, ברובע הראשון</td></tr>
+        <tr><td>סבד ביסטרו</td><td>פאב טבעוני עם אוכל נוחות - המבורגרים, <span class="lat">dirty fries</span> ופסטה. בשני פתוח <span class="lat">11:00-23:00</span>.</td><td class="dur">כ-<span class="lat">14.3</span> ק&quot;מ מטירת נג'טטן, בפשט</td></tr>
+      </tbody>
+    </table>
+    </div>
+  </section>
+
+  <section class="day">
+    <h2><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-peaks"/></svg>יום 19 · שלישי <span class="lat">29/09</span></h2>
+    <p class="meta"><b>הדגש היום:</b> בודפשט</p>
+    <div class="scroll">
+    <table class="t-plan">
+      <thead><tr><th style="width:25%">מה ואיפה</th><th style="width:62%">מה זה בפועל</th><th style="width:13%">כמה זמן</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>בית המוזיקה - כיפת הקול · <span class="lat">Magyar Zene Háza – Hangdóm</span></td>
+          <td>אולם כיפה בבית המוזיקה שמקרין סאונד ותמונה מסביב לצופה, בלי צורך בשפה. ההקרנה האחרונה ב-<span class="lat">17:00</span> ובשישי ב-<span class="lat">19:00</span>, והמחיר <span class="w">▲</span>.</td>
+          <td class="dur">ג'-א' <span class="lat">10:15-17:50</span>, ו' עד <span class="lat">19:50</span> · שעה</td>
+        </tr>
+        <tr>
+          <td>הפיס - פוזלקשפרי · <span class="lat">Hippeace by Főzelékesferi</span></td>
+          <td>דוכן בתוך שוק שכונתי, כמעט כולו טבעוני, שמתמחה בפזלק — מחית הירקות הסמיכה שהיא מוסד הונגרי — וגם במרקים יומיים. זול ומקומי, ופתוח בימי חול בלבד.</td>
+          <td class="dur">שעות השוק בימי חול <span class="w">▲</span> · שלושת רבעי שעה</td>
+        </tr>
+        <tr>
+          <td>המוזיאון ההונגרי להיסטוריה של הטבע · <span class="lat">Magyar Természettudományi Múzeum</span></td>
+          <td>המוזיאון הלאומי לתולדות הטבע, מהמקומות שמחזיקים גם את הגיל הצעיר. סגור בימי שני, והכניסה האחרונה <span class="lat">16:30</span>.</td>
+          <td class="dur">ג'-א' <span class="lat">9:00-17:00</span>, כניסה אחרונה <span class="lat">16:30</span> · שעתיים</td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-near"><b>אם נשאר זמן, או שמשהו לא הסתדר.</b> עוד באותו אזור, בלי לשנות את שאר היום:</p>
+    <div class="scroll">
+    <table class="opt t-near">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>רכבת הילדים</td><td>רכבת של 11 ק&quot;מ בהרי בודה, שילדים מפעילים בפיקוח מבוגרים. פועלת בשלישי, לוח הזמנים <span class="w">▲</span>.</td><td class="dur">כ-<span class="lat">8.1</span> ק&quot;מ מהמוזיאון להיסטוריה של הטבע</td></tr>
+        <tr><td>מערת פאלוולג'י</td><td>סיור מודרך של שעה ב-500 מטר מערה מצוידים. סף כניסה 115 ס&quot;מ - לבדוק מול הבן בן ה-<span class="lat">6.5</span>.</td><td class="dur">אוטובוס 65 מקולושי טר, כ-<span class="lat">7.6</span> ק&quot;מ מכאן</td></tr>
+        <tr><td>פארק ממנטו</td><td>פסלי התקופה הקומוניסטית בשטח פתוח, <span class="lat">10:00-17:00</span>. חינם עד גיל 6, ומדבר בעיקר אל בן ה-14.</td><td class="dur">מטרו <span class="lat">M4</span> לקלנפלד ואוטובוס <span class="lat">101B</span> - כ-9 דק'</td></tr>
+        <tr><td>פארק נורמפה</td><td>יער ונוף בהרי בודה, יעד ההליכה של המקומיים. פתוח תמיד וללא תשלום, גם אחר הצהריים.</td><td class="dur">אוטובוס 21 מסל קלמן טר - כ-19 דק'</td></tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-eat"><b>לאכול באזור.</b> כל אלה במרחק הליכה ממה שמתוכנן היום:</p>
+    <div class="scroll">
+    <table class="opt t-eat">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>קוזמוס - מסעדה טבעונית</td><td>טבעונית עם טורוש צ'וסה וספגטי בולונז בגרסה צמחית. בשלישי <span class="lat">11:30-22:00</span> - היחידה היום.</td><td class="dur"><span class="w">▲</span> ברובע השישי, בפשט</td></tr>
+        <tr><td>טהינה בייט</td><td>מזרח תיכוני טבעוני - פלאפל, חומוס, באבא גנוש ומוחמרה. פותח ב-<span class="lat">11:00</span>, וטעם מוכר אחרי יום מוזיאונים.</td><td class="dur">כ-<span class="lat">2.5</span> ק&quot;מ מהמוזיאון להיסטוריה של הטבע</td></tr>
+        <tr><td>נפפייניש - מסעדה וקונדיטוריה טבעונית</td><td>טבעונית מלאה עם קלאסיקה הונגרית - כרוב ממולא, גבינה צמחית מטוגנת וקינוח שומלוי. המטבח עד <span class="lat">20:30</span>.</td><td class="dur">כ-<span class="lat">2.5</span> ק&quot;מ מהמוזיאון להיסטוריה של הטבע</td></tr>
+      </tbody>
+    </table>
+    </div>
+  </section>
+
+  <p class="sheetfoot">
+    <span>עמוד 10 מתוך 12 · ימים 18–19</span>
+    <span><span class="w">▲</span> = פריט שלא אומת ממקור ראשוני · המסמך הופק אוטומטית — אף מקום לא בוקר פיזית ואף מספר לא אומת מחדש ביום הקריאה</span>
+  </p>
+</section>
+
+<section class="sheet" id="sheet-11">
+
+  <section class="day">
+    <h2><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-lake"/></svg>יום 20 · רביעי <span class="lat">30/09</span></h2>
+    <p class="meta"><b>הדגש היום:</b> בודפשט</p>
+    <div class="scroll">
+    <table class="t-plan">
+      <thead><tr><th style="width:25%">מה ואיפה</th><th style="width:62%">מה זה בפועל</th><th style="width:13%">כמה זמן</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>אגם הסירות בוארושליגט · <span class="lat">Városligeti Csónakázótó</span></td>
+          <td>אגם סירות של כ-60 דונם מול טירת ויידהוניאד בפארק העיר, שעונת 2026 שלו נפתחה בסוף מאי. מועד סיום העונה, השעות והמחיר <span class="w">▲</span>.</td>
+          <td class="dur">סוף העונה <span class="w">▲</span> · שעה</td>
+        </tr>
+        <tr>
+          <td>וגה קוצו · <span class="lat">VegaKuckó</span></td>
+          <td>אטקזדה — מזנון ביתי עם תפריט יומי מתחלף בהשראה הונגרית, איטלקית, הודית ויוונית, במחיר נמוך. צהריים בלבד ובימי חול בלבד, והמטבח נסגר ב-<span class="lat">15:45</span>.</td>
+          <td class="dur">ב'-ו' <span class="lat">9:45-15:45</span> · שעה</td>
+        </tr>
+        <tr>
+          <td>מוזיאון האמנויות היפות · <span class="lat">Szépművészeti Múzeum</span></td>
+          <td>מוזיאון האמנות הקלאסית של הונגריה, בכיכר הגיבורים בכניסה לפארק העיר. סגור בימי שני, והקופה נסגרת שעה לפני סגירת המוזיאון.</td>
+          <td class="dur">ג'-א' <span class="lat">10:00-18:00</span>, כניסה אחרונה <span class="lat">17:00</span> · שעתיים</td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-near"><b>אם נשאר זמן, או שמשהו לא הסתדר.</b> עוד באותו אזור, בלי לשנות את שאר היום:</p>
+    <div class="scroll">
+    <table class="opt t-near">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>מערת פאלוולג'י</td><td>מערה עם סיור מודרך של שעה, 500 מטר מצוידים. סף כניסה 115 ס&quot;מ - למדוד לפני שיוצאים.</td><td class="dur">אוטובוס 65 מקולושי טר, כ-<span class="lat">6.9</span> ק&quot;מ מכאן</td></tr>
+        <tr><td>מגדל התצפית אליזבת</td><td>הנקודה הגבוהה בבודפשט, מגדל תצפית בכניסה חופשית כל השנה. העלייה אליו רגלית מנורמפה.</td><td class="dur">המשך רגלי מנורמפה; הרכבל סגור מ-<span class="lat">28/09</span></td></tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-eat"><b>לאכול באזור.</b> כל אלה במרחק הליכה ממה שמתוכנן היום:</p>
+    <div class="scroll">
+    <table class="opt t-eat">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>נפפייניש - מסעדה וקונדיטוריה טבעונית</td><td>טבעונית מלאה עם גרסאות לקלאסיקה ההונגרית, מהבבגויאש ועד השומלוי. המטבח נסגר ב-<span class="lat">20:30</span>.</td><td class="dur">כ-26 דק' הליכה מוגה קוצו</td></tr>
+        <tr><td>טהינה בייט</td><td>פלאפל, חומוס, באבא גנוש ומוחמרה - הכול טבעוני. פתוח כל יום <span class="lat">11:00-22:00</span>, גם מאוחר בערב.</td><td class="dur">כ-30 דק' הליכה מוגה קוצו</td></tr>
+      </tbody>
+    </table>
+    </div>
+  </section>
+
+  <section class="day">
+    <h2><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-peaks"/></svg>יום 21 · חמישי <span class="lat">01/10</span></h2>
+    <p class="meta"><b>הדגש היום:</b> בודפשט</p>
+    <div class="scroll">
+    <table class="t-plan">
+      <thead><tr><th style="width:25%">מה ואיפה</th><th style="width:62%">מה זה בפועל</th><th style="width:13%">כמה זמן</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>שוק הקאלים המרכזי · <span class="lat">Nagycsarnok</span></td>
+          <td>אולם השוק המרכזי: דוכני ירקות ופפריקה למטה, ולמעלה דוכני אוכל ולנגוש, כולל גרסה צמחונית עם גבינה ושמנת. סגור בחגים לאומיים, ושעות יום ראשון <span class="w">▲</span>.</td>
+          <td class="dur">ב'-ו' <span class="lat">6:00-18:00</span>, ש' <span class="lat">6:00-16:00</span> · שעה וחצי</td>
+        </tr>
+        <tr>
+          <td>וגן גארדן · <span class="lat">Vegan Garden</span></td>
+          <td>מתחם עם כמה מטבחים תחת גג אחד, וכל אחד בוחר משלו: פלצ'ינטה בגרסה צמחית, מרק שעועית, נזיד פטריות יער ופיצות. פתוח כל ימות השבוע, כולל שני וראשון.</td>
+          <td class="dur">כל יום, מ-<span class="lat">11:00</span> או <span class="lat">12:00</span> עד <span class="lat">22:00-23:00</span> · שעה</td>
+        </tr>
+        <tr>
+          <td>מוזיאון האתנוגרפיה · <span class="lat">Néprajzi Múzeum</span></td>
+          <td>מוזיאון האתנוגרפיה בפארק העיר, והגג המדורג שלו הוא נקודת תצפית שעולים אליה. בימי שני התערוכות סגורות, אך האולם המרכזי והמסעדה פתוחים.</td>
+          <td class="dur">ג'-א' <span class="lat">10:00-18:00</span>, קופה עד <span class="lat">17:30</span> · שעתיים</td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-near"><b>אם נשאר זמן, או שמשהו לא הסתדר.</b> עוד באותו אזור, בלי לשנות את שאר היום:</p>
+    <div class="scroll">
+    <table class="opt t-near">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>הפסטיבל הבינלאומי לספר בבודפשט</td><td>המהדורה ה-31 של יריד הספר נפתחת היום, עם גרמניה אוסטריה ושווייץ כמדינות אורח.</td><td class="dur"><span class="w">▲</span> במרכז הכנסים והתערוכות של בודפשט</td></tr>
+        <tr><td><span class="lat">UH Fest</span> - פסטיבל מוזיקה אוונגרדית</td><td>מוזיקה אוונגרדית בטרפו ובמקומות נוספים. מדבר אל בן ה-14 הרבה יותר מאשר אל בן ה-<span class="lat">6.5</span>.</td><td class="dur"><span class="w">▲</span> בטרפו ובמוקדים נוספים בעיר</td></tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-eat"><b>לאכול באזור.</b> כל אלה במרחק הליכה ממה שמתוכנן היום:</p>
+    <div class="scroll">
+    <table class="opt t-eat">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>טהינה בייט</td><td>שבע דקות מוגן גארדן: פלאפל, חומוס ומוחמרה טבעוניים. פתוח כל יום מ-<span class="lat">11:00</span> עד <span class="lat">22:00</span>.</td><td class="dur">כ-7 דק' הליכה מוגן גארדן</td></tr>
+        <tr><td>נפפייניש - מסעדה וקונדיטוריה טבעונית</td><td>טבעונית וקונדיטוריה באותו מקום. קלאסיקה הונגרית בגרסה צמחית, וקינוח שומלוי לסיום.</td><td class="dur">כ-13 דק' הליכה מוגן גארדן</td></tr>
+      </tbody>
+    </table>
+    </div>
+  </section>
+
+  <p class="sheetfoot">
+    <span>עמוד 11 מתוך 12 · ימים 20–21</span>
+    <span><span class="w">▲</span> = פריט שלא אומת ממקור ראשוני · המסמך הופק אוטומטית — אף מקום לא בוקר פיזית ואף מספר לא אומת מחדש ביום הקריאה</span>
+  </p>
+</section>
+
+<section class="sheet" id="sheet-12">
+
+  <section class="day">
+    <h2><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-market"/></svg>יום 22 · שישי <span class="lat">02/10</span></h2>
+    <p class="meta"><b>הדגש היום:</b> בודפשט</p>
+    <div class="scroll">
+    <table class="t-plan">
+      <thead><tr><th style="width:25%">מה ואיפה</th><th style="width:62%">מה זה בפועל</th><th style="width:13%">כמה זמן</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>חומוס בר · <span class="lat">Hummus Bar</span></td>
+          <td>רשת חומוס מקומית עם כמה סניפים, מנות מוכרות ומחיר נמוך — עוגן בטוח למי שבגיל <span class="lat">6.5</span>. פתוחה כל יום, כולל סופי שבוע וימי שני.</td>
+          <td class="dur">ב'-ו' <span class="lat">11:00-22:00</span>, סופ&quot;ש <span class="lat">12:00-22:00</span> · שעה</td>
+        </tr>
+        <tr>
+          <td>מוזיאון לודוויג · <span class="lat">Ludwig Múzeum</span></td>
+          <td>מוזיאון לאמנות עכשווית במתחם התרבות שעל שפת הדנובה. סגור בימי שני, וקומה 1 פתוחה עד <span class="lat">20:00</span> — היחיד בעיר שאפשר לבקר בו בערב.</td>
+          <td class="dur">ג'-א' <span class="lat">10:00-18:00</span>, קומה 1 עד <span class="lat">20:00</span> · שעה וחצי</td>
+        </tr>
+        <tr>
+          <td>פארק ורושליגט · <span class="lat">Városliget</span></td>
+          <td>הפארק הגדול של פשט, ובתוכו מוזיאון האתנוגרפיה, בית המוזיקה, גן החיות, אגם הסירות וכיכר הגיבורים. פארק עירוני פתוח, בלי שער ובלי כרטיס.</td>
+          <td class="dur">פתוח תמיד · שעתיים ומעלה</td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-near"><b>אם נשאר זמן, או שמשהו לא הסתדר.</b> עוד באותו אזור, בלי לשנות את שאר היום:</p>
+    <div class="scroll">
+    <table class="opt t-near">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>אוקטוברפסט בודפשט - מקטע שני</td><td>המקטע השני של אוקטוברפסט נפתח היום, באותם שלושה מוקדים. <span class="lat">02/10</span> הוא גם יום היציאה.</td><td class="dur"><span class="w">▲</span> בשלושת המוקדים של המקטע הראשון</td></tr>
+        <tr><td><span class="lat">UH Fest</span> - פסטיבל מוזיקה אוונגרדית</td><td>מוזיקה אוונגרדית בטרפו ובמקומות נוספים, ממשיך עד <span class="lat">04/10</span>. יותר לבן 14 מאשר לבן <span class="lat">6.5</span>.</td><td class="dur"><span class="w">▲</span> בטרפו ובמוקדים נוספים בעיר</td></tr>
+      </tbody>
+    </table>
+    </div>
+    <p class="optlead t-eat"><b>לאכול באזור.</b> כל אלה במרחק הליכה ממה שמתוכנן היום:</p>
+    <div class="scroll">
+    <table class="opt t-eat">
+      <thead><tr><th style="width:26%">מה</th><th style="width:56%">מה זה</th><th style="width:18%">מרחק</th></tr></thead>
+      <tbody>
+        <tr><td>סבד ביסטרו</td><td>פאב טבעוני עם אוכל נוחות - המבורגרים, <span class="lat">dirty fries</span> ופסטה. בשישי פתוח <span class="lat">11:00-23:00</span>.</td><td class="dur">כ-23 דק' הליכה מפארק ורושליגט</td></tr>
+        <tr><td>סלנצה קפה</td><td>בית קפה משפחתי בבודה: מנות יום צמחוניות וקינוחים בלי סוכר וקמח. בשישי <span class="lat">09:00-18:00</span> בלבד.</td><td class="dur">כ-<span class="lat">2.2</span> ק&quot;מ מחומוס בר, ברובע הראשון בבודה</td></tr>
+      </tbody>
+    </table>
+    </div>
+  </section>
+
+  <p class="sheetfoot">
+    <span>עמוד 12 מתוך 12 · יום 22</span>
+    <span><span class="w">▲</span> = פריט שלא אומת ממקור ראשוני · המסמך הופק אוטומטית — אף מקום לא בוקר פיזית ואף מספר לא אומת מחדש ביום הקריאה</span>
+  </p>
+</section>
+</main>
+</body>
+</html>
